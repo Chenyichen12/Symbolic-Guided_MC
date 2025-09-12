@@ -1,0 +1,13 @@
+vllm
+ollama
+torch
+transformers
+datasets
+trl
+pandas
+numpy
+scikit-learn
+scipy
+tqdm
+PyYAML
+openai

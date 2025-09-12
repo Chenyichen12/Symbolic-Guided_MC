@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "exp_len_7_0",
+        "context": "Consider the following premises: If Thomas were excited, then Charles is curious. Thomas is excited if and only if Robert is bored. Thomas is excited if and only if Charles is curious. Can we infer the following from them? Answer yes or no: If Robert were bored, then Charles is curious.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_1",
+        "context": "Consider the following premises: Elisabeth is sad and Elisabeth is sad. Elisabeth is not sad or it is sunny. If Elisabeth were sad, then it is sunny and if it is sunny, then Elisabeth is sad. Can we infer the following from them? Answer yes or no: It is sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_2",
+        "context": "Consider the following premises: It is cloudy if and only if it is cold. Can we infer the following from them? Answer yes or no: David is running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_3",
+        "context": "Consider the following premises: Barbara is not a server or Richard is driving a car. Richard is not driving a car or Thomas is cooking. Thomas is not cooking. If Thomas cooks, then Barbara is a server. Can we infer the following from them? Answer yes or no: Richard is not driving a car.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_4",
+        "context": "Consider the following premises: Thomas is not curious. It is cold if and only if Michael is a doctor. If it is sunny, then Mary is a mechanic. If Mary were a mechanic, then Michael is a doctor and if Michael were a doctor, then Mary is a mechanic. It is cold if and only if Thomas is curious. Can we infer the following from them? Answer yes or no: It is sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_5",
+        "context": "Consider the following premises: If it is cloudy, then Karen is playing a game and if Karen plays a game, then it is cloudy. The claim that Karen is playing a game and the claim that Richard is excited cannot both be true. Can we infer the following from them? Answer yes or no: If it is cloudy, then Richard is not excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_6",
+        "context": "Consider the following premises: If Michael climbs a mountain, then Robert is playing a game. Michael is climbing a mountain if and only if Jennifer is cooking. If Robert plays a game, then Michael is climbing a mountain. Jennifer is cooking if and only if Robert is playing a game. Can we infer the following from them? Answer yes or no: If Robert plays a game, then Michael is climbing a mountain and if Michael climbs a mountain, then Robert is playing a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_7",
+        "context": "Consider the following premises: David is playing squash if and only if James is fast. Elisabeth is cooking. If David plays squash, then Elisabeth is not cooking. Can we infer the following from them? Answer yes or no: James is not fast.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_8",
+        "context": "Consider the following premises: If it is windy, then John is writing a letter. If Joseph were a mechanic, then it is windy. Susan is cooking or Joseph is a mechanic. If it is windy, then Joseph is a mechanic. Can we infer the following from them? Answer yes or no: Neither John is writing a letter nor Susan is cooking.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_9",
+        "context": "Consider the following premises: David is not running. If Jessica plays squash, then Karen is a musician. If Karen were a musician, then Linda is playing a game. Karen is a musician if and only if Linda is playing a game. If Linda plays a game, then David is running. If Karen were a musician, then Jessica is playing squash. Can we infer the following from them? Answer yes or no: Jessica is not playing squash or David is writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_10",
+        "context": "Consider the following premises: If Jessica drives a car, then Jennifer is a janitor. If William were curious, then Jessica is driving a car. If Jennifer were a janitor, then Patricia is a doctor. If Patricia were a doctor, then Jennifer is a janitor. If Jennifer were a janitor, then Patricia is a doctor. Patricia is a doctor or William is curious. Can we infer the following from them? Answer yes or no: Jennifer is a janitor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_11",
+        "context": "Consider the following premises: It is windy. Elisabeth is listening to a song if and only if it is late. If it is late, then it is cold. If it is cold, then it is not windy. Elisabeth is listening to a song. Can we infer the following from them? Answer yes or no: Robert is taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_12",
+        "context": "Consider the following premises: It is not cold. If it is cold, then Jennifer is a lawyer. Jennifer is not a lawyer or it is cold. Joseph is a janitor. Can we infer the following from them? Answer yes or no: Joseph is a janitor and Jennifer is not a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_13",
+        "context": "Consider the following premises: If William sleeps, then Linda is a lawyer and if Linda were a lawyer, then William is sleeping. William is sleeping. Can we infer the following from them? Answer yes or no: Robert is making tea.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_14",
+        "context": "Consider the following premises: If James were happy, then Jennifer is writing a letter. If Jessica takes a plane, then Karen is working. If Jennifer writes a letter, then Jessica is taking a plane. James is happy if and only if it is raining. If Karen works, then James is happy. It is not raining. If Jennifer writes a letter, then James is happy. Can we infer the following from them? Answer yes or no: Jennifer is not writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_15",
+        "context": "Consider the following premises: It is snowing. If Barbara plays squash, then Sarah is an office clerk and if Sarah were an office clerk, then Barbara is playing squash. If David were excited, then Sarah is an office clerk and if Sarah were an office clerk, then David is excited. If it snows, then Barbara is playing squash. Can we infer the following from them? Answer yes or no: Patricia is not playing a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_16",
+        "context": "Consider the following premises: If James takes a plane, then James is an artist. James is not an artist or James is taking a plane. James is not an artist or James is taking a plane. Can we infer the following from them? Answer yes or no: James is taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_17",
+        "context": "Consider the following premises: If Karen sleeps, then Joseph is happy. Karen is not sleeping. Joseph is not happy or Michael is playing squash. If Joseph were happy, then Karen is sleeping. If Michael plays squash, then Joseph is happy. Can we infer the following from them? Answer yes or no: Michael is not playing squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_18",
+        "context": "Consider the following premises: It is windy if and only if Charles is a lawyer. If Charles were a lawyer, then James is a writer. It is late if and only if Karen is listening to a song. If it is windy, then Karen is listening to a song. If James were a writer, then Charles is a lawyer. Can we infer the following from them? Answer yes or no: It is late.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_19",
+        "context": "Consider the following premises: Linda is a lawyer if and only if Susan is climbing a mountain. If Linda were a lawyer, then Jessica is bored. If William were a server, then Jessica is bored. If Jessica were bored, then William is a server. If Susan climbs a mountain, then Linda is a lawyer. Can we infer the following from them? Answer yes or no: If Susan climbs a mountain, then William is a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_20",
+        "context": "Consider the following premises: It is sunny if and only if Thomas is driving a car. If it is sunny, then Thomas is driving a car. It is not sunny or Jessica is climbing a mountain. If Thomas drives a car, then it is sunny. Can we infer the following from them? Answer yes or no: If Thomas drives a car, then Jessica is climbing a mountain.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_21",
+        "context": "Consider the following premises: It is cold if and only if Michael is an office clerk. Michael is not an office clerk or James is a carpenter. Michael is not an office clerk or it is cold. James is not a carpenter. Can we infer the following from them? Answer yes or no: It is not cold.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_22",
+        "context": "Consider the following premises: If Robert were bored, then Thomas is a scientist and if Thomas were a scientist, then Robert is bored. If Robert were bored, then Charles is playing squash and if Charles plays squash, then Robert is bored. Can we infer the following from them? Answer yes or no: Thomas is a scientist.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_23",
+        "context": "Consider the following premises: Linda is not excited or Michael is cooking. Michael is not cooking or Linda is excited. If Michael cooks, then Linda is excited and if Linda were excited, then Michael is cooking. Can we infer the following from them? Answer yes or no: Linda is excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_24",
+        "context": "Consider the following premises: It is overcast or it is overcast. It is sunny if and only if Richard is not an electrician. If Susan were a cashier, then it is sunny. If it is sunny, then Susan is a cashier. If Richard were an electrician, then it is not overcast. Can we infer the following from them? Answer yes or no: Susan is a cashier.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_25",
+        "context": "Consider the following premises: It is not raining. Thomas is a nurse if and only if David is an office clerk. If Robert plays squash, then it is raining. It is raining if and only if David is an office clerk. If Charles works, then Thomas is a nurse. If David were an office clerk, then Robert is playing squash. If Thomas were a nurse, then Charles is working. Can we infer the following from them? Answer yes or no: Charles is not working.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_26",
+        "context": "Consider the following premises: If David climbs a mountain, then William is taking a plane. Elisabeth is playing tennis if and only if it is raining. If David climbs a mountain, then it is raining and if it rains, then David is climbing a mountain. If Elisabeth plays tennis, then David is climbing a mountain. Can we infer the following from them? Answer yes or no: The fact that it rains does not imply that William is taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_27",
+        "context": "Consider the following premises: Linda is not a poet or Mary is sad. Susan is playing squash if and only if Mary is running. If Mary were sad, then it is windy. It is not windy. Susan is playing squash if and only if Linda is a poet. Can we infer the following from them? Answer yes or no: Mary is not running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_28",
+        "context": "Consider the following premises: If Jennifer were poor, then Robert is a lawyer and if Robert were a lawyer, then Jennifer is poor. The claim that Robert is a lawyer and the claim that John is playing tennis cannot both be true. Can we infer the following from them? Answer yes or no: The fact that Jennifer were poor does not imply that John is not playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_29",
+        "context": "Consider the following premises: If Karen were a police officer, then it is overcast. It is snowing if and only if it is overcast. If it snows, then Karen is a police officer. Can we infer the following from them? Answer yes or no: Karen is not a police officer or it is overcast.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_30",
+        "context": "Consider the following premises: Jennifer is not a soldier. It is cold if and only if Jennifer is a police officer. It is snowing if and only if it is late. If it is late, then Jennifer is a soldier. It is not cold. If it is cold, then Jennifer is a police officer. Can we infer the following from them? Answer yes or no: It is not snowing and Jennifer is not a police officer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_31",
+        "context": "Consider the following premises: If Richard plays squash, then William is a doctor. If William were a doctor, then Richard is playing squash. Can we infer the following from them? Answer yes or no: Michael is not running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_32",
+        "context": "Consider the following premises: If Karen writes a letter, then David is reading a book. If Karen writes a letter, then David is reading a book. If David reads a book, then Karen is writing a letter. Can we infer the following from them? Answer yes or no: Patricia is not taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_33",
+        "context": "Consider the following premises: Thomas is making tea if and only if Thomas is a musician. Thomas is not a musician or Patricia is sleeping. If Michael climbs a mountain, then Thomas is a musician. If Thomas were a musician, then Patricia is sleeping. If Patricia sleeps, then Michael is climbing a mountain. Thomas is not making tea. Can we infer the following from them? Answer yes or no: Patricia is not sleeping.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_34",
+        "context": "Consider the following premises: Linda is a lawyer if and only if Elisabeth is a soldier. If Linda were a lawyer, then Elisabeth is a soldier. Can we infer the following from them? Answer yes or no: If Elisabeth were a soldier, then Linda is a lawyer and if Linda were a lawyer, then Elisabeth is a soldier.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_35",
+        "context": "Consider the following premises: If it is sunny, then Patricia is playing a game and if Patricia plays a game, then it is sunny. Sarah is a police officer or Patricia is playing a game. If it is sunny, then Sarah is a police officer and if Sarah were a police officer, then it is sunny. If it is sunny, then Patricia is playing a game. Can we infer the following from them? Answer yes or no: It is not sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_36",
+        "context": "Consider the following premises: If Barbara drinks water, then it is windy. Barbara is drinking water if and only if it is overcast. If Thomas plays squash, then it is snowing. If it is windy, then Thomas is playing squash. It is not snowing or it is overcast. Can we infer the following from them? Answer yes or no: If Barbara drinks water, then it is snowing and if it snows, then Barbara is drinking water.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_37",
+        "context": "Consider the following premises: It is windy if and only if Elisabeth is poor. If it rains, then it is windy. Elisabeth is not poor or it is windy. Can we infer the following from them? Answer yes or no: The fact that it rains does not imply that Elisabeth is poor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_38",
+        "context": "Consider the following premises: If William were bored, then it is raining. If Elisabeth plays squash, then William is bored. If Karen listens to a song, then Elisabeth is playing squash. If Elisabeth plays squash, then Karen is listening to a song. Can we infer the following from them? Answer yes or no: Karen is not listening to a song or it is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_39",
+        "context": "Consider the following premises: Patricia is not driving a car or it is late. If Patricia drives a car, then it is cloudy. Michael is not making tea or Linda is taking a plane. If Linda takes a plane, then it is cloudy. If it is cloudy, then Patricia is driving a car. Can we infer the following from them? Answer yes or no: If Michael makes tea, then it is late.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_40",
+        "context": "Consider the following premises: David is sleeping. If Thomas were happy, then Patricia is listening to a song. If it is not windy, then Patricia is listening to a song. The claim that David is sleeping and the claim that it is windy cannot both be true. Patricia is listening to a song if and only if it is not windy. Can we infer the following from them? Answer yes or no: Patricia is listening to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_41",
+        "context": "Consider the following premises: It is sunny if and only if Charles is a nurse. It is not sunny. The claim that Karen is bored and the claim that it is raining cannot both be true. If Charles were a nurse, then Karen is bored and if Karen were bored, then Charles is a nurse. Can we infer the following from them? Answer yes or no: It is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_42",
+        "context": "Consider the following premises: It is windy if and only if James is happy. It is not windy. The claim that Joseph is fast and the claim that William is cooking cannot both be true. If James were happy, then Joseph is fast and if Joseph were fast, then James is happy. Can we infer the following from them? Answer yes or no: William is cooking.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_43",
+        "context": "Consider the following premises: If it is cloudy, then Jessica is writing a letter and if Jessica writes a letter, then it is cloudy. The claim that Jessica is writing a letter and the claim that Jennifer is reading a book cannot both be true. It is late if and only if it is cloudy. It is not late. Can we infer the following from them? Answer yes or no: Jennifer is reading a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_44",
+        "context": "Consider the following premises: It is cloudy if and only if James is happy. It is not cloudy. If James were happy, then Joseph is running and if Joseph goes running, then James is happy. The claim that Joseph is running and the claim that Patricia is making tea cannot both be true. Can we infer the following from them? Answer yes or no: Patricia is making tea.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_45",
+        "context": "Consider the following premises: Elisabeth is not a taxi driver or Michael is a police officer. Elisabeth is a lawyer. Michael is a police officer. If Elisabeth were a lawyer, then Elisabeth is a taxi driver. Can we infer the following from them? Answer yes or no: Jennifer is taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_46",
+        "context": "Consider the following premises: Elisabeth is reading a book if and only if Susan is a lawyer. Susan is a lawyer if and only if John is running. Elisabeth is reading a book. Susan is a lawyer if and only if John is running. Can we infer the following from them? Answer yes or no: John is running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_47",
+        "context": "Consider the following premises: If Elisabeth plays squash, then John is playing tennis. If Patricia cooks, then it is raining. It is not raining. If it is cloudy, then Elisabeth is playing squash. Patricia is not cooking or it is cloudy. Can we infer the following from them? Answer yes or no: John is not playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_48",
+        "context": "Consider the following premises: If it is sunny, then it is cold. If it is overcast, then it is windy. If it is cold, then it is windy. If it is cold, then it is sunny. If it is cloudy, then it is windy. It is overcast or it is cloudy. Can we infer the following from them? Answer yes or no: It is sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_49",
+        "context": "Consider the following premises: If Richard were an electrician, then David is a taxi driver. Michael is not drinking water or it is sunny. If Michael drinks water, then Joseph is an office clerk. Joseph is not an office clerk. If it is sunny, then Richard is an electrician. Can we infer the following from them? Answer yes or no: David is not a taxi driver.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_50",
+        "context": "Consider the following premises: For all x_20, if x_20 were a nurse, then x_20 is writing a letter. For all x_20, if x_20 writes a letter, then x_20 is a server. There is at least one x_20 for which x_20 is not a server or x_20 will read a book. For all x_20, x_20 is a nurse or for all x_20, x_20 will drive a car. Can we infer the following from them? Answer yes or no: For all x_20, neither x_20 will read a book nor x_20 will drive a car.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_51",
+        "context": "Consider the following premises: For all x_18, x_18 will cook. There is at least one x_18 for which x_18 will read a book if and only if x_18 will take a plane. Can we infer the following from them? Answer yes or no: For all x_18, neither x_18 will cook nor x_18 will take a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_52",
+        "context": "Consider the following premises: For all x_23, x_23 will drive a car or x_23 will drive a car. For all x_23, x_23 will not drive a car or x_23 is a poet. Can we infer the following from them? Answer yes or no: For all x, x is a poet.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_53",
+        "context": "Consider the following premises: For all x_22, x_22 will not write a letter. For all x_22, x_22 is a taxi driver or x_22 will read a book. For all x_22, if x_22 were a taxi driver, then x_22 is writing a letter. For all x_22, if x_22 writes a letter, then x_22 is a taxi driver. Can we infer the following from them? Answer yes or no: For all y_4, y_4 will read a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_54",
+        "context": "Consider the following premises: For all x_22, if x_22 were an astronaut, then x_22 is writing a letter. There is at least one x_22 for which x_22 is an astronaut if and only if x_22 will write a letter. There is no x_22 for which x_22 is an astronaut. For all x_22, x_22 will not write a letter or x_22 is an astronaut. Can we infer the following from them? Answer yes or no: There is at least one x_22 for which x_22 is sad.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_55",
+        "context": "Consider the following premises: For all y_24, if y_24 cooks, then y_24 is playing a game. For all y_24, if y_24 plays tennis, then y_24 is taking a plane. Z is a politician. For all y_24, if y_24 takes a plane, then y_24 is cooking. Can we infer the following from them? Answer yes or no: There is at least one y_24 for which y_24 will play a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_56",
+        "context": "Consider the following premises: For all x_30, x_30 is not a cashier. For all x_30, x_30 is a doctor or x_30 will read a book. For all x_30, x_30 is a sailor. For all x_30, x_30 is a doctor if and only if x_30 is a cashier. Can we infer the following from them? Answer yes or no: Z_2 is reading a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_57",
+        "context": "Consider the following premises: For all x_27, x_27 will not drink water. For all x_27, x_27 is not rich or x_27 will take a plane. For all x_27, x_27 will not play tennis or x_27 is a soldier. For all x_27, x_27 is a soldier if and only if x_27 is happy. For all x_27, x_27 will play tennis or x_27 is rich. For all x_27, if x_27 were happy, then x_27 is drinking water. Can we infer the following from them? Answer yes or no: There is at least one y for which y will take a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_58",
+        "context": "Consider the following premises: For all x_20, x_20 will not work or x_20 will drive a car. For all x_20, if x_20 climbs a mountain, then x_20 is excited. For all x_20, if x_20 were excited, then x_20 is climbing a mountain. There is at least one x_20 for which if x_20 climbs a mountain, then x_20 is working. Can we infer the following from them? Answer yes or no: There is at least one x_20 for which if x_20 were excited, then x_20 is driving a car.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_59",
+        "context": "Consider the following premises: For all x_17, if x_17 were sad, then x_17 is rich and if x_17 were rich, then x_17 is sad. For all x_17, if x_17 were sad, then x_17 is a taxi driver. For all x_17, if x_17 were a taxi driver, then x_17 is rich and if x_17 were rich, then x_17 is a taxi driver. Can we infer the following from them? Answer yes or no: For all x_17, if x_17 were rich, then x_17 is sad and if x_17 were sad, then x_17 is rich.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_60",
+        "context": "Consider the following premises: For all x_22, if x_22 were an electrician, then x_22 is drinking water. There is at least one x_22 for which x_22 is a taxi driver. For all x_22, if x_22 were an artist, then x_22 is drinking water. For all x_22, x_22 is an electrician and x_22 is an electrician. Can we infer the following from them? Answer yes or no: There is at least one x_22 for which x_22 will drink water and x_22 is a taxi driver.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_61",
+        "context": "Consider the following premises: For all x_21, x_21 is poor or x_21 is an artist. For all x_21, x_21 is a nurse if and only if x_21 is a sailor. There is at least one x_21 for which if x_21 were poor, then x_21 is a musician. For all x_21, if x_21 were a musician, then x_21 is a sailor. Can we infer the following from them? Answer yes or no: There is at least one x_21 for which x_21 is an artist or x_21 is a nurse.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_62",
+        "context": "Consider the following premises: For all x_36, x_36 will take a plane or x_36 is an office clerk. For all x_36, if x_36 were sad, then x_36 is playing a game. For all x_36, x_36 is not an office clerk. There is at least one x_36 for which if x_36 takes a plane, then x_36 is playing a game. For all x_36, x_36 will read a book if and only if x_36 is sad. For all x_36, if x_36 plays a game, then x_36 is an astronaut. Can we infer the following from them? Answer yes or no: There is at least one x_36 for which x_36 is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_63",
+        "context": "Consider the following premises: For all x_26, x_26 is an artist if and only if x_26 is a janitor. For all x_26, if x_26 makes tea, then x_26 is happy. For all x_26, x_26 is not happy. There is at least one x_26 for which if x_26 were an artist, then x_26 is making tea and if x_26 makes tea, then x_26 is an artist. Can we infer the following from them? Answer yes or no: Not for all x_26, x_26 is a janitor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_64",
+        "context": "Consider the following premises: There is at least one x_14 for which x_14 is poor or x_14 is a server. For all x_14, x_14 is not poor or x_14 will drive a car. Can we infer the following from them? Answer yes or no: There is at least one x_14 for which x_14 is a server or x_14 will drive a car.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_65",
+        "context": "Consider the following premises: For all x_29, x_29 will make tea and x_29 will listen to a song. X_35 is writing a letter. Can we infer the following from them? Answer yes or no: There is at least one y_18 for which y_18 will make tea and y_18 will write a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_66",
+        "context": "Consider the following premises: For all x_31, x_31 is bored. There is at least one x_31 for which x_31 will play squash if and only if x_31 is bored. For all x_31, x_31 is sad if and only if x_31 is a writer. For all x_31, if x_31 plays squash, then x_31 is sad. Can we infer the following from them? Answer yes or no: For all x_31, x_31 is not a writer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_67",
+        "context": "Consider the following premises: For all x_21, if x_21 were a mechanic, then x_21 is a nurse. For all x_21, if x_21 were a nurse, then x_21 is sleeping. For all x_21, if x_21 reads a book, then x_21 is listening to a song and if x_21 listens to a song, then x_21 is reading a book. There is at least one x_21 for which x_21 will read a book or x_21 is a mechanic. For all x_21, x_21 will not listen to a song. Can we infer the following from them? Answer yes or no: For all x_21, x_21 will not sleep.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_68",
+        "context": "Consider the following premises: For all x_19, x_19 will read a book. For all x_19, x_19 is not a bartender or x_19 is an astronaut. For all x_19, x_19 will read a book if and only if x_19 is an astronaut. For all x_19, x_19 will read a book if and only if x_19 is an astronaut. Can we infer the following from them? Answer yes or no: For all x_19, x_19 is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_69",
+        "context": "Consider the following premises: For all x_15, x_15 will not climb a mountain. For all x_15, if x_15 climbs a mountain, then x_15 is making tea and if x_15 makes tea, then x_15 is climbing a mountain. Can we infer the following from them? Answer yes or no: There is at least one x_15 for which x_15 will make tea.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_70",
+        "context": "Consider the following premises: For all x_27, x_27 will read a book. Can we infer the following from them? Answer yes or no: Jessica is reading a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_71",
+        "context": "Consider the following premises: For all x_12, x_12 will read a book and x_12 is a lawyer. Can we infer the following from them? Answer yes or no: For all x_12, x_12 will not go running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_72",
+        "context": "Consider the following premises: There is at least one x_14 for which if x_14 drinks water, then x_14 is playing tennis. For all x_14, x_14 will not play tennis. For all x_14, x_14 will not play tennis or x_14 will drink water. Can we infer the following from them? Answer yes or no: For all x_14, x_14 will drink water.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_73",
+        "context": "Consider the following premises: For all x_37, x_37 is a politician or x_37 is a politician. For all x_37, if x_37 were a politician, then x_37 is cooking. There is at least one x_37 for which x_37 will climb a mountain. For all x_37, x_37 will read a book. Can we infer the following from them? Answer yes or no: There is at least one x_37 for which x_37 will cook and x_37 will read a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_74",
+        "context": "Consider the following premises: For all x_15, if x_15 drinks water, then x_15 is playing a game. For all x_15, if x_15 sleeps, then x_15 is a sailor. For all x_33, if x_33 drives a car, then x_33 is sleeping. For all x_15, if x_15 were a sailor, then x_15 is drinking water. For all x_33, if x_33 makes tea, then x_33 is driving a car. For all x_33, x_33 will listen to a song or x_33 will make tea. For all x_33, if x_33 listens to a song, then x_33 is driving a car. Can we infer the following from them? Answer yes or no: For all x_15, x_15 will play a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_75",
+        "context": "Consider the following premises: For all x_30, if x_30 were a musician, then x_30 is a taxi driver. There is at least one x_30 for which if x_30 were a taxi driver, then x_30 is a musician. For all x_30, if x_30 takes a plane, then x_30 is a taxi driver. For all x_30, x_30 will take a plane. For all x_30, if x_30 were a taxi driver, then x_30 is playing squash. Can we infer the following from them? Answer yes or no: There is at least one x_30 for which x_30 is a nurse or x_30 will play squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_76",
+        "context": "Consider the following premises: There is at least one x_21 for which if x_21 were a server, then x_21 is climbing a mountain. For all x_21, if x_21 climbs a mountain, then x_21 is a scientist. For all x_21, x_21 is a server or x_21 is a server. Can we infer the following from them? Answer yes or no: There is at least one x_21 for which x_21 is a sailor or x_21 is a scientist.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_77",
+        "context": "Consider the following premises: For all x_17, if x_17 goes running, then x_17 is working. For all x_17, if x_17 goes running, then x_17 is working. For all x_17, if x_17 works, then x_17 is running. Can we infer the following from them? Answer yes or no: For all x_17, x_17 will not work or x_17 will go running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_78",
+        "context": "Consider the following premises: For all x_29, x_29 will listen to a song and x_29 will listen to a song. For all x_27, if x_27 were a server, then x_27 is sleeping. For all x_29, if x_29 listens to a song, then x_29 is a server. Can we infer the following from them? Answer yes or no: For all x_27, x_27 will not sleep.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_79",
+        "context": "Consider the following premises: For all x_22, x_22 is an astronaut if and only if x_22 is a soldier. For all x_22, if x_22 were a nurse, then x_22 is an astronaut. For all x_22, if x_22 were curious, then x_22 is a nurse. For all x_22, x_22 is not an astronaut or x_22 is a soldier. For all x_22, x_22 is curious. Can we infer the following from them? Answer yes or no: For all x_22, x_22 is a writer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_80",
+        "context": "Consider the following premises: There is at least one x_15 for which x_15 will play tennis if and only if x_15 will climb a mountain. For all x_15, x_15 will climb a mountain if and only if x_15 will play tennis. Can we infer the following from them? Answer yes or no: There is at least one x_15 for which x_15 will climb a mountain if and only if x_15 will play tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_81",
+        "context": "Consider the following premises: For all x_21, x_21 will play tennis and x_21 will play tennis. Can we infer the following from them? Answer yes or no: For all y, y will not play tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_82",
+        "context": "Consider the following premises: For all x_17, x_17 will write a letter if and only if x_17 is a writer. For all x_17, x_17 will write a letter if and only if x_17 is a writer. Can we infer the following from them? Answer yes or no: There is at least one x_17 for which it is not true that x_17 is a writer if and only if x_17 will write a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_83",
+        "context": "Consider the following premises: For all x_15, if x_15 were an astronaut, then x_15 is a lawyer. For all x_15, x_15 is a lawyer if and only if x_15 is an astronaut. For all x_15, x_15 is a lawyer or x_15 will climb a mountain. Can we infer the following from them? Answer yes or no: For all x_15, x_15 will climb a mountain.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_84",
+        "context": "Consider the following premises: For all x_16, x_16 is fast if and only if x_16 will climb a mountain. For all x_16, if x_16 climbs a mountain, then x_16 is a carpenter. For all x_16, x_16 is not a carpenter. Can we infer the following from them? Answer yes or no: Charles is not a police officer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_85",
+        "context": "Consider the following premises: There is at least one x_15 for which if x_15 were a sailor, then x_15 is a carpenter. For all x_15, if x_15 were a carpenter, then x_15 is a sailor. For all x_15, if x_15 were a sailor, then x_15 is a carpenter. Can we infer the following from them? Answer yes or no: There is at least one x_15 for which x_15 is a sailor if and only if x_15 is a carpenter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_86",
+        "context": "Consider the following premises: For all x_12, x_12 is a taxi driver or x_12 will listen to a song. For all x_12, x_12 will not listen to a song or x_12 will read a book. For all x_12, if x_12 were a taxi driver, then x_12 is drinking water. Can we infer the following from them? Answer yes or no: There is at least one x_12 for which neither x_12 will drink water nor x_12 will read a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_87",
+        "context": "Consider the following premises: For all x_17, x_17 is a taxi driver if and only if x_17 is curious. For all x_17, if x_17 were a writer, then x_17 is a taxi driver. For all x_17, if x_17 were a taxi driver, then x_17 is a writer. Can we infer the following from them? Answer yes or no: For all x_17, x_17 will not play squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_88",
+        "context": "Consider the following premises: For all x_19, if x_19 sleeps, then x_19 is a cashier. For all x_19, x_19 is a carpenter if and only if x_19 will sleep. There is at least one x_19 for which x_19 is not a cashier or x_19 is bored. Can we infer the following from them? Answer yes or no: For all x_19, neither x_19 is not a carpenter nor x_19 is bored.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_89",
+        "context": "Consider the following premises: For all x_24, x_24 will play squash if and only if x_24 is a nurse. There is at least one x_24 for which if x_24 plays squash, then x_24 is playing a game. For all x_24, if x_24 were a nurse, then x_24 is a writer. For all x_24, if x_24 were a writer, then x_24 is a nurse. For all x_24, x_24 will not play a game or x_24 is a writer. Can we infer the following from them? Answer yes or no: There is at least one x_24 for which x_24 is a writer if and only if x_24 will play a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_7_90",
+        "context": "Consider the following premises: There is at least one x_27 for which x_27 is not an artist or x_27 will play squash. For all x_27, x_27 will go running. For all x_27, if x_27 plays squash, then x_27 is an astronaut. For all x_27, if x_27 goes running, then x_27 is a scientist. Can we infer the following from them? Answer yes or no: For all x_27, neither x_27 is a scientist nor x_27 is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_91",
+        "context": "Consider the following premises: For all x_18, x_18 will read a book if and only if x_18 is a sailor. For all x_18, x_18 is not a sailor or x_18 will work. Can we infer the following from them? Answer yes or no: For all x_18, if x_18 reads a book, then x_18 is working.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_92",
+        "context": "Consider the following premises: For all x_33, if x_33 were sad, then x_33 is sleeping. For all x_33, x_33 is a poet if and only if x_33 is a mechanic. There is at least one x_33 for which x_33 is a politician. For all x_33, x_33 is a mechanic if and only if x_33 is a politician. For all x_33, x_33 will sleep if and only if x_33 is a mechanic. Can we infer the following from them? Answer yes or no: There is at least one x_33 for which x_33 is a poet.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_93",
+        "context": "Consider the following premises: For all x_14, x_14 is not a nurse or x_14 will go running. For all x_38, x_38 is a cashier. For all x_38, x_38 will go running if and only if x_38 is a cashier. Can we infer the following from them? Answer yes or no: There is at least one x_14 for which x_14 is a nurse.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_94",
+        "context": "Consider the following premises: For all x_26, x_26 will read a book. For all x_22, if x_22 works, then x_22 is a politician and if x_22 were a politician, then x_22 is working. For all x_26, x_26 will work. Can we infer the following from them? Answer yes or no: For all x_22, x_22 is a politician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_95",
+        "context": "Consider the following premises: For all x_16, x_16 is happy if and only if x_16 will play squash. For all x_16, if x_16 plays a game, then x_16 is bored and if x_16 were bored, then x_16 is playing a game. For all x_16, if x_16 were bored, then x_16 is playing squash. Can we infer the following from them? Answer yes or no: For all x_16, if x_16 plays a game, then x_16 is happy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_96",
+        "context": "Consider the following premises: For all x_26, x_26 will play squash. For all x_22, if x_22 plays squash, then x_22 is excited and if x_22 were excited, then x_22 is playing squash. For all x_26, x_26 will write a letter. Can we infer the following from them? Answer yes or no: For all x_22, x_22 is excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_97",
+        "context": "Consider the following premises: For all x_18, x_18 will not go running or x_18 is a poet. For all x_18, x_18 is a lawyer if and only if x_18 will go running. Can we infer the following from them? Answer yes or no: For all x_18, if x_18 were a lawyer, then x_18 is a poet.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_98",
+        "context": "Consider the following premises: For all x_33, x_33 is bored if and only if x_33 is a writer. For all x_33, if x_33 takes a plane, then x_33 is bored. There is at least one x_33 for which x_33 will cook. For all x_33, x_33 will make tea if and only if x_33 is a writer. For all x_33, x_33 is a writer if and only if x_33 will cook. Can we infer the following from them? Answer yes or no: There is at least one x_33 for which x_33 will make tea.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_7_99",
+        "context": "Consider the following premises: For all x_20, if x_20 were a soldier, then x_20 is a bartender. For all x_4, x_4 will make tea. For all x_20, if x_20 were a soldier, then x_20 is making tea. For all x_20, x_20 is not a bartender or x_20 is a soldier. Can we infer the following from them? Answer yes or no: Michael is a bartender.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_0",
+        "context": "Consider the following premises: If James drinks water, then David is a janitor. James is drinking water if and only if Barbara is playing a game. If David were a janitor, then Barbara is playing a game. Jennifer is sad if and only if Barbara is playing a game. Can we infer the following from them? Answer yes or no: If Jennifer were sad, then James is drinking water.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_1",
+        "context": "Consider the following premises: Elisabeth is climbing a mountain. If Linda writes a letter, then Elisabeth is climbing a mountain. If Elisabeth climbs a mountain, then Barbara is driving a car. If Barbara drives a car, then Linda is writing a letter. Can we infer the following from them? Answer yes or no: Linda is not writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_2",
+        "context": "Consider the following premises: John is not a musician or James is playing a game. If James plays a game, then John is a musician. If it is late, then John is a musician and if John were a musician, then it is late. Can we infer the following from them? Answer yes or no: The fact that James plays a game does not imply that it is late.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_3",
+        "context": "Consider the following premises: Susan is reading a book if and only if Elisabeth is making tea. If John listens to a song, then Susan is reading a book. If Elisabeth makes tea, then Susan is sleeping. If Susan reads a book, then Elisabeth is making tea. John is listening to a song. Susan is not sleeping or Sarah is a mechanic. Can we infer the following from them? Answer yes or no: Sarah is a mechanic.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_4",
+        "context": "Consider the following premises: It is sunny if and only if Thomas is a nurse. Susan is not a carpenter or Jessica is an electrician. Jessica is not an electrician or it is sunny. If Thomas were a nurse, then Susan is a carpenter. If Jessica were an electrician, then Susan is a carpenter. Can we infer the following from them? Answer yes or no: Jessica is an electrician if and only if Thomas is a nurse.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_5",
+        "context": "Consider the following premises: Sarah is not excited or Michael is reading a book. If it rains, then Sarah is excited. If it rains, then Michael is reading a book. It is raining if and only if Michael is reading a book. Can we infer the following from them? Answer yes or no: It is not raining or Michael is reading a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_6",
+        "context": "Consider the following premises: It is snowing if and only if Barbara is an electrician. If David were excited, then it is snowing. If it snows, then David is excited. Can we infer the following from them? Answer yes or no: If Barbara were an electrician, then David is excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_7",
+        "context": "Consider the following premises: If it is cloudy, then Linda is bored. If Linda were bored, then it is cloudy. John is a carpenter. John is not a carpenter or Charles is a cashier. If Charles were a cashier, then it is cloudy. If it is cloudy, then Charles is a cashier. Can we infer the following from them? Answer yes or no: Linda is bored.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_8",
+        "context": "Consider the following premises: If Mary drives a car, then it is windy. If Karen were a carpenter, then it is snowing. It is snowing if and only if it is windy. It is not snowing or it is overcast. Mary is driving a car or Karen is a carpenter. Can we infer the following from them? Answer yes or no: It is overcast.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_9",
+        "context": "Consider the following premises: The claim that William is driving a car and the claim that Mary is a server cannot both be true. If it is late, then William is driving a car. It is late. Can we infer the following from them? Answer yes or no: Mary is not a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_10",
+        "context": "Consider the following premises: If it is sunny, then Richard is a carpenter and if Richard were a carpenter, then it is sunny. If Charles were curious, then Richard is a carpenter. Charles is not curious or Richard is a carpenter. If Richard were a carpenter, then Charles is curious. It is not sunny. Can we infer the following from them? Answer yes or no: Robert is sad.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_11",
+        "context": "Consider the following premises: If Robert were not a scientist, then Robert is playing a game. If Jessica listens to a song, then Patricia is playing tennis. If Robert plays a game, then Joseph is not rich. Joseph is rich and Joseph is rich. If Robert were a scientist, then Jessica is listening to a song. Can we infer the following from them? Answer yes or no: Patricia is playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_12",
+        "context": "Consider the following premises: If Patricia writes a letter, then it is sunny. If Jennifer were a taxi driver, then it is sunny. If it is sunny, then Jennifer is a taxi driver. It is cloudy. John is reading a book. If Patricia doesn't write a letter, then Jennifer is a taxi driver. Can we infer the following from them? Answer yes or no: John is reading a book and it is cloudy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_13",
+        "context": "Consider the following premises: If Linda plays squash, then it is snowing. Linda is playing squash if and only if it is snowing. If it snows, then Linda is playing squash. Can we infer the following from them? Answer yes or no: It is not snowing or Linda is playing squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_14",
+        "context": "Consider the following premises: If Karen cooks, then it is windy and if it is windy, then Karen is cooking. It is windy if and only if it is late. Karen is not cooking. If it is windy, then it is late and if it is late, then it is windy. Can we infer the following from them? Answer yes or no: It is not late.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_15",
+        "context": "Consider the following premises: If Linda were poor, then Robert is a soldier and if Robert were a soldier, then Linda is poor. Can we infer the following from them? Answer yes or no: Linda is poor or Robert is not a soldier.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_16",
+        "context": "Consider the following premises: If Elisabeth were a poet, then Richard is a lawyer. If Elisabeth were a poet, then Richard is a lawyer. Richard is not a lawyer or Elisabeth is a poet. If Richard were a lawyer, then Elisabeth is a poet. Can we infer the following from them? Answer yes or no: Neither Elisabeth is not a poet nor Richard is a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_17",
+        "context": "Consider the following premises: If William were a sailor, then it is cloudy. If William were a sailor, then William is a politician and if William were a politician, then William is a sailor. If it is cloudy, then William is a sailor. Can we infer the following from them? Answer yes or no: William is not a politician or it is cloudy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_18",
+        "context": "Consider the following premises: If Karen plays squash, then it is sunny. If it is sunny, then Karen is playing squash. David is reading a book if and only if David is writing a letter. If David reads a book, then it is sunny. If Karen plays squash, then David is writing a letter. Can we infer the following from them? Answer yes or no: It is sunny if and only if Karen is playing squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_19",
+        "context": "Consider the following premises: If Sarah were a nurse, then it is overcast. If Elisabeth were a poet, then Mary is bored. Elisabeth is a poet if and only if Sarah is a nurse. If Mary were bored, then Elisabeth is a poet. If it is overcast, then Mary is bored. Can we infer the following from them? Answer yes or no: Mary is bored.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_20",
+        "context": "Consider the following premises: Jessica is a janitor. If Robert takes a plane, then Jessica is a janitor. If Jessica were a janitor, then Robert is taking a plane. Robert is taking a plane if and only if Jessica is a janitor. Can we infer the following from them? Answer yes or no: Thomas is playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_21",
+        "context": "Consider the following premises: If Charles takes a plane, then Patricia is working. If Linda were sad, then Charles is taking a plane and if Charles takes a plane, then Linda is sad. If Patricia works, then Charles is taking a plane. If Linda were sad, then Patricia is working. If Patricia works, then Linda is sad. Can we infer the following from them? Answer yes or no: It is not true that Charles is taking a plane if and only if Linda is sad.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_22",
+        "context": "Consider the following premises: If Robert plays squash, then it is raining and if it rains, then Robert is playing squash. Jessica is not working. It is raining if and only if Robert is playing squash. If it rains, then Jessica is working. Can we infer the following from them? Answer yes or no: It is not windy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_23",
+        "context": "Consider the following premises: Sarah is running or Linda is rich. If Sarah goes running, then it is cloudy. If it is cloudy, then it is windy. It is windy if and only if Linda is rich. Can we infer the following from them? Answer yes or no: It is not windy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_24",
+        "context": "Consider the following premises: If Jessica drinks water, then Jennifer is driving a car. Joseph is writing a letter if and only if Jessica is drinking water. Joseph is not writing a letter or Jessica is drinking water. If Jennifer drives a car, then Joseph is writing a letter. Can we infer the following from them? Answer yes or no: It is not true that Jessica is drinking water if and only if Joseph is writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_25",
+        "context": "Consider the following premises: If it is late, then Jessica is playing tennis. If Charles works, then it is snowing. If Sarah were a bartender, then Linda is playing squash. Sarah is a bartender if and only if Charles is working. If it snows, then it is late. If Linda plays squash, then Sarah is a bartender. Can we infer the following from them? Answer yes or no: Linda is not playing squash or Jessica is playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_26",
+        "context": "Consider the following premises: If Joseph were a mechanic, then James is an electrician. James is an electrician if and only if Joseph is a mechanic. Joseph is not a mechanic. Can we infer the following from them? Answer yes or no: James is not an electrician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_27",
+        "context": "Consider the following premises: It is raining if and only if Richard is a janitor. Jennifer is climbing a mountain if and only if Richard is a bartender. Jennifer is climbing a mountain if and only if it is raining. If John were excited, then Richard is a bartender and if Richard were a bartender, then John is excited. Richard is not a janitor. Richard is a bartender if and only if John is excited. Can we infer the following from them? Answer yes or no: John is not excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_28",
+        "context": "Consider the following premises: If it snows, then Thomas is a carpenter. The claim that Thomas is a carpenter and the claim that David is making tea cannot both be true. If Thomas were a carpenter, then it is snowing. If David doesn't make tea, then it is snowing. Can we infer the following from them? Answer yes or no: It is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_29",
+        "context": "Consider the following premises: It is sunny if and only if James is writing a letter. Mary is not a server or James is writing a letter. Susan is bored if and only if it is late. Susan is bored. It is not sunny or it is late. Can we infer the following from them? Answer yes or no: It is not late.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_30",
+        "context": "Consider the following premises: If Charles writes a letter, then it is cold. If Charles writes a letter, then Jessica is a bartender and if Jessica were a bartender, then Charles is writing a letter. It is cold if and only if it is cloudy. If it is cloudy, then Jessica is a bartender. Can we infer the following from them? Answer yes or no: Elisabeth is not fast.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_31",
+        "context": "Consider the following premises: It is overcast. If it is sunny, then Robert is happy. If Patricia takes a plane, then it is not overcast and if it is not overcast, then Patricia is taking a plane. Patricia is taking a plane if and only if it is sunny. Robert is happy if and only if Patricia is taking a plane. Can we infer the following from them? Answer yes or no: It is sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_32",
+        "context": "Consider the following premises: Linda is not a writer or Patricia is running. If James doesn't write a letter, then Patricia is running. The claim that Patricia is running and the claim that James is writing a letter cannot both be true. If it is windy, then James is not writing a letter. It is windy or Linda is a writer. Can we infer the following from them? Answer yes or no: It is snowing.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_33",
+        "context": "Consider the following premises: It is cloudy if and only if Jennifer is an artist. If it is cold, then Jennifer is an artist. If it is cloudy, then it is cold. Linda is not running or it is cloudy. If it is cloudy, then Linda is running. Linda is not running. Can we infer the following from them? Answer yes or no: Jennifer is not an artist or it is sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_34",
+        "context": "Consider the following premises: If it rains, then Patricia is playing a game. Patricia is playing a game if and only if it is raining. Can we infer the following from them? Answer yes or no: Neither Patricia is not playing a game nor it is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_35",
+        "context": "Consider the following premises: If Sarah plays squash, then it is overcast. If it is overcast, then David is a politician. Sarah is playing squash or it is raining. If it is overcast, then David is a politician. If it rains, then it is overcast. If David were a politician, then it is overcast. Can we infer the following from them? Answer yes or no: It is cloudy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_36",
+        "context": "Consider the following premises: If it rains, then Jennifer is a scientist. Karen is curious if and only if it is raining. If John were poor, then Karen is curious. It is not sunny. Linda is a nurse if and only if John is poor. If Jennifer were a scientist, then it is sunny. If Thomas plays tennis, then Linda is a nurse. Can we infer the following from them? Answer yes or no: Thomas is not playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_37",
+        "context": "Consider the following premises: If Jessica drinks water, then it is raining. If it rains, then it is windy. John is reading a book or Jessica is drinking water. John is not reading a book or Sarah is sleeping. Susan is a cashier. Susan is not a cashier if and only if it is windy. Jessica is drinking water if and only if it is windy. Can we infer the following from them? Answer yes or no: Sarah is sleeping.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_38",
+        "context": "Consider the following premises: If Joseph were a police officer, then Elisabeth is an astronaut. If David works, then Elisabeth is an astronaut. It is cloudy if and only if Jennifer is drinking water. If it is cold, then it is cloudy. If Jennifer drinks water, then Joseph is a police officer. David is not working. If Elisabeth were an astronaut, then David is working. Can we infer the following from them? Answer yes or no: James is cooking.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_39",
+        "context": "Consider the following premises: If Barbara were a bartender, then it is raining. Mary is not a musician or Barbara is a bartender. If Barbara were a bartender, then it is raining. If John were an office clerk, then Mary is a musician. If it rains, then Barbara is a bartender. Can we infer the following from them? Answer yes or no: John is not an office clerk or it is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_40",
+        "context": "Consider the following premises: It is sunny if and only if Elisabeth is a musician. If Susan were excited, then Elisabeth is a musician and if Elisabeth were a musician, then Susan is excited. Susan is excited if and only if it is sunny. Can we infer the following from them? Answer yes or no: Elisabeth is a musician if and only if Susan is excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_41",
+        "context": "Consider the following premises: If Elisabeth were curious, then Jennifer is playing squash. William is bored if and only if Jennifer is playing squash. If James were a politician, then Patricia is a musician. James is a politician if and only if Elisabeth is curious. If Patricia were a musician, then James is a politician. Patricia is not a musician. If William were bored, then Elisabeth is curious. Can we infer the following from them? Answer yes or no: Jennifer is not playing squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_42",
+        "context": "Consider the following premises: Susan is not climbing a mountain. If it is cloudy, then Charles is sleeping. If Robert were a scientist, then Susan is climbing a mountain. If Susan climbs a mountain, then Robert is a scientist. It is cloudy if and only if Richard is reading a book. If Charles sleeps, then Richard is reading a book. Robert is a scientist if and only if Charles is sleeping. Can we infer the following from them? Answer yes or no: Richard is not reading a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_43",
+        "context": "Consider the following premises: If Robert works, then it is sunny. Robert is not working. It is sunny if and only if Patricia is a cashier. If Patricia were a cashier, then it is snowing. If it is sunny, then Robert is working. Robert is a police officer if and only if it is snowing. If Robert were a police officer, then Patricia is a cashier. Can we infer the following from them? Answer yes or no: It is not snowing.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_44",
+        "context": "Consider the following premises: If Jennifer sleeps, then James is a server. If Joseph plays a game, then it is sunny. If James were a server, then Barbara is writing a letter. If it is sunny, then Joseph is playing a game. Jennifer is sleeping if and only if Barbara is writing a letter. Joseph is not playing a game. It is sunny if and only if James is a server. Can we infer the following from them? Answer yes or no: Barbara is not writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_45",
+        "context": "Consider the following premises: Patricia is not taking a plane or John is an astronaut. If it rains, then Mary is listening to a song. If Mary listens to a song, then John is an astronaut. Mary is listening to a song and Mary is listening to a song. If John were an astronaut, then it is raining. If it is windy, then John is an astronaut. Can we infer the following from them? Answer yes or no: Patricia is taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_46",
+        "context": "Consider the following premises: Robert is not excited. If Robert were excited, then David is rich. If it is late, then it is cold. Robert is taking a plane if and only if it is cold. If Robert takes a plane, then it is late. David is rich if and only if it is late. If David were rich, then Robert is excited. Can we infer the following from them? Answer yes or no: It is not cold.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_47",
+        "context": "Consider the following premises: Elisabeth is not a writer or it is sunny. If Linda goes running, then Sarah is rich. If Sarah were rich, then it is sunny. If Mary were a janitor, then it is sunny. Sarah is rich and Sarah is rich. If it is sunny, then Linda is running. Can we infer the following from them? Answer yes or no: Elisabeth is a writer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_48",
+        "context": "Consider the following premises: Jessica is reading a book if and only if Jennifer is a cashier. If Jessica reads a book, then it is windy. If Jennifer were a cashier, then Charles is writing a letter. It is not windy. Jennifer is a soldier if and only if Charles is writing a letter. If it is windy, then Jessica is reading a book. If Jennifer were a soldier, then Jennifer is a cashier. Can we infer the following from them? Answer yes or no: Charles is not writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_49",
+        "context": "Consider the following premises: It is not cloudy. If it is cloudy, then Linda is sleeping. If Charles were a cashier, then Linda is sleeping and if Linda sleeps, then Charles is a cashier. If Linda sleeps, then it is cloudy. Can we infer the following from them? Answer yes or no: Charles is not a cashier.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_50",
+        "context": "Consider the following premises: There is at least one x_24 for which x_24 is not a musician or x_24 will drive a car. For all x_24, if x_24 drives a car, then x_24 is a musician. For all x_14, x_14 is a musician. Can we infer the following from them? Answer yes or no: There is at least one x_24 for which x_24 will not play a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_51",
+        "context": "Consider the following premises: There is at least one x_24 for which if x_24 were a soldier, then x_24 is a janitor. For all x_24, x_24 is not a janitor or x_24 will play tennis. For all x_24, if x_24 were a janitor, then x_24 is a soldier. Can we infer the following from them? Answer yes or no: There is at least one x_24 for which x_24 is a soldier.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_52",
+        "context": "Consider the following premises: For all x_24, if x_24 were a server, then x_24 is making tea. For all x_24, x_24 will not listen to a song or x_24 will make tea. For all x_24, if x_24 makes tea, then x_24 is a server. For all x_24, if x_24 reads a book, then x_24 is a server. For all x_24, x_24 will read a book if and only if x_24 will make tea. Can we infer the following from them? Answer yes or no: There is at least one x_24 for which the fact that x_24 listens to a song does not imply that x_24 is a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_53",
+        "context": "Consider the following premises: There is at least one x_26 for which x_26 will drive a car if and only if x_26 will listen to a song. For all x_26, x_26 is an astronaut if and only if x_26 will drive a car. For all x_26, if x_26 were excited, then x_26 is an astronaut. For all x_26, x_26 will not listen to a song. Can we infer the following from them? Answer yes or no: There is at least one x_26 for which x_26 is not excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_54",
+        "context": "Consider the following premises: There is at least one x_30 for which x_30 will go running if and only if x_30 will cook. For all x_30, if x_30 reads a book, then x_30 is cooking. For all x_30, if x_30 cooks, then x_30 is reading a book. For all x_30, x_30 will go running or x_30 will go running. Can we infer the following from them? Answer yes or no: There is at least one x_30 for which x_30 will read a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_55",
+        "context": "Consider the following premises: There is at least one x_22 for which x_22 will listen to a song or x_22 will play a game. For all x_22, x_22 will take a plane if and only if x_22 will listen to a song. For all x_22, if x_22 plays a game, then x_22 is taking a plane. Can we infer the following from them? Answer yes or no: There is at least one x_22 for which x_22 will take a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_56",
+        "context": "Consider the following premises: For all x_20, x_20 is not a lawyer or x_20 will work. For all x_20, if x_20 were an electrician, then x_20 is a lawyer. For all x_20, x_20 will drive a car. For all x_20, if x_20 works, then x_20 is an electrician. Can we infer the following from them? Answer yes or no: For all x_20, x_20 will drive a car or x_20 is a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_57",
+        "context": "Consider the following premises: For all x_30, if x_30 were rich, then x_30 is a lawyer. For all x_30, if x_30 were poor, then x_30 is a lawyer. For all x_30, if x_30 were rich, then x_30 is listening to a song. For all x_30, x_30 will not listen to a song or x_30 is rich. There is at least one x_30 for which x_30 is poor or x_30 will listen to a song. Can we infer the following from them? Answer yes or no: There is at least one x_30 for which x_30 is a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_58",
+        "context": "Consider the following premises: Some servers will write a letter. For all x_55, x_55 is a lawyer. For all x_55, if x_55 cooks, then x_55 is reading a book. For all x_55, if x_55 were a server, then x_55 is reading a book. Can we infer the following from them? Answer yes or no: Some lawyers will read a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_59",
+        "context": "Consider the following premises: For all x_25, x_25 will make tea. For all x_25, x_25 will play tennis if and only if x_25 is a mechanic. For all x_25, x_25 will not make tea. Can we infer the following from them? Answer yes or no: For all x_25, x_25 will play tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_60",
+        "context": "Consider the following premises: For all x_19, if x_19 plays squash, then x_19 is reading a book. For all x_19, x_19 will not play a game or x_19 will play squash. For all x_19, if x_19 were a server, then x_19 is playing a game. For all x_19, if x_19 reads a book, then x_19 is a server. Can we infer the following from them? Answer yes or no: For all x_19, x_19 will not play squash or x_19 is a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_61",
+        "context": "Consider the following premises: For all x_19, x_19 is a writer or x_19 is a writer. For all x_19, if x_19 were a writer, then x_19 is writing a letter. There is at least one x_19 for which x_19 will not write a letter. For all x_19, x_19 is an astronaut if and only if x_19 is a taxi driver. Can we infer the following from them? Answer yes or no: There is at least one x_19 for which x_19 is a taxi driver.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_62",
+        "context": "Consider the following premises: For all x_24, x_24 will drive a car and x_24 is a nurse. Can we infer the following from them? Answer yes or no: There is at least one x for which x is a nurse.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_63",
+        "context": "Consider the following premises: For all x_35, if x_35 writes a letter, then x_35 is listening to a song. For all x_35, if x_35 works, then x_35 is listening to a song. For all x_35, x_35 will not drive a car. For all x_35, x_35 will work or x_35 will write a letter. For all x_35, x_35 will listen to a song if and only if x_35 will drive a car. Can we infer the following from them? Answer yes or no: For all w_2, w_2 is not an electrician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_64",
+        "context": "Consider the following premises: For all x_20, x_20 is a politician and x_20 is an artist. Can we infer the following from them? Answer yes or no: For all x, x is an artist.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_65",
+        "context": "Consider the following premises: For all x_20, x_20 is a bartender if and only if x_20 will listen to a song. For all x_20, x_20 will not sleep. For all x_20, if x_20 were a bartender, then x_20 is sleeping. For all x_20, x_20 is a bartender if and only if x_20 will sleep. Can we infer the following from them? Answer yes or no: For all x_20, x_20 will not listen to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_66",
+        "context": "Consider the following premises: For all x_27, x_27 is not a sailor or x_27 will drink water. There is at least one x_27 for which x_27 is a sailor or there is at least one x_27 for which x_27 will cook. Can we infer the following from them? Answer yes or no: There is at least one x_27 for which x_27 will drink water or there is at least one x_27 for which x_27 will cook.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_67",
+        "context": "Consider the following premises: For all y_21, y_21 is a writer and for all y_21, y_21 is sad. For all x_27, x_27 is an office clerk or x_27 is an office clerk. Can we infer the following from them? Answer yes or no: For all y_21, y_21 is an office clerk and y_21 is sad.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_68",
+        "context": "Consider the following premises: For all x_39, x_39 is an artist if and only if x_39 is a sailor. For all x_39, x_39 will make tea or for all x_39, x_39 is a sailor. There is at least one x_39 for which x_39 will drink water. For all x_39, x_39 will not drink water. For all x_39, x_39 will not make tea or x_39 is an artist. Can we infer the following from them? Answer yes or no: There is at least one x_39 for which x_39 will not go running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_69",
+        "context": "Consider the following premises: For all x_19, x_19 is excited if and only if x_19 will sleep. There is at least one x_19 for which if x_19 sleeps, then x_19 is excited. Can we infer the following from them? Answer yes or no: There is at least one x_19 for which x_19 is excited if and only if x_19 will sleep.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_70",
+        "context": "Consider the following premises: For all x_40, if x_40 were a writer, then x_40 is a police officer. There is at least one x_40 for which x_40 is a police officer if and only if x_40 is a musician. For all x_40, x_40 is a musician and x_40 is a musician. For all x_40, x_40 is happy if and only if x_40 is a police officer. Can we infer the following from them? Answer yes or no: There is at least one x_40 for which x_40 is a sailor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_71",
+        "context": "Consider the following premises: For all x_35, x_35 will cook or x_35 is a soldier. For all x_35, x_35 will go running. For all x_35, if x_35 plays tennis, then x_35 is cooking and if x_35 cooks, then x_35 is playing tennis. There is at least one x_35 for which if x_35 were a soldier, then x_35 is playing tennis. For all x_35, if x_35 were a writer, then x_35 is not running. For all x_35, if x_35 plays tennis, then x_35 is a writer. For all x_35, if x_35 were a writer, then x_35 is playing tennis. Can we infer the following from them? Answer yes or no: There is at least one x_35 for which x_35 will play squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_72",
+        "context": "Consider the following premises: For all x_22, if x_22 were an astronaut, then x_22 is a janitor. For all x_22, if x_22 were an astronaut, then x_22 is playing squash and if x_22 plays squash, then x_22 is an astronaut. There is at least one x_22 for which if x_22 were a janitor, then x_22 is rich. For all x_22, x_22 is not rich or x_22 will play squash. Can we infer the following from them? Answer yes or no: There is at least one x_22 for which x_22 is rich.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_73",
+        "context": "Consider the following premises: For all x_21, x_21 is not an office clerk. There is at least one x_21 for which if x_21 were an office clerk, then x_21 is writing a letter. For all x_21, if x_21 were an office clerk, then x_21 is writing a letter and if x_21 writes a letter, then x_21 is an office clerk. Can we infer the following from them? Answer yes or no: There is at least one x_21 for which x_21 will not write a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_74",
+        "context": "Consider the following premises: For all x_24, x_24 is poor if and only if x_24 is an artist. For all x_24, if x_24 were a janitor, then x_24 is a nurse. For all x_24, x_24 is a musician or x_24 is a janitor. For all x_24, if x_24 were a musician, then x_24 is a server. For all x_24, x_24 is poor if and only if x_24 is a server. For all x_24, x_24 will listen to a song if and only if x_24 is an artist. For all x_24, x_24 will not listen to a song. Can we infer the following from them? Answer yes or no: For all x_24, x_24 is a nurse.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_75",
+        "context": "Consider the following premises: For all x_31, if x_31 were a scientist, then x_31 is a bartender. For all x_31, x_31 will not climb a mountain. For all x_31, x_31 is a scientist or x_31 will go running. For all x_31, x_31 is happy or x_31 will climb a mountain. For all x_31, if x_31 goes running, then x_31 is a bartender and if x_31 were a bartender, then x_31 is running. Can we infer the following from them? Answer yes or no: For all x_31, x_31 is happy and x_31 is a bartender.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_76",
+        "context": "Consider the following premises: For all x_24, if x_24 works, then x_24 is a musician and if x_24 were a musician, then x_24 is working. For all x_24, x_24 is a sailor if and only if x_24 will work. For all x_24, x_24 is not a musician. For all x_24, if x_24 were a sailor, then x_24 is working. There is at least one x_24 for which if x_24 were sad, then x_24 is a sailor. For all x_24, if x_24 works, then x_24 is a sailor. Can we infer the following from them? Answer yes or no: There is at least one x_24 for which x_24 is not an electrician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_77",
+        "context": "Consider the following premises: For all x_28, x_28 will not write a letter or x_28 will listen to a song. For all x_28, x_28 will climb a mountain if and only if x_28 is a carpenter. For all x_28, x_28 will not take a plane or x_28 is a carpenter. For all x_28, x_28 will listen to a song if and only if x_28 will take a plane. For all x_28, if x_28 climbs a mountain, then x_28 is running. Can we infer the following from them? Answer yes or no: For all x_28, x_28 will listen to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_78",
+        "context": "Consider the following premises: For all x_21, x_21 is a carpenter if and only if x_21 will cook. There is at least one x_21 for which x_21 is a carpenter if and only if x_21 will work. Can we infer the following from them? Answer yes or no: There is at least one x_21 for which x_21 will not work or x_21 will cook.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_79",
+        "context": "Consider the following premises: For all x_32, if x_32 were a musician, then x_32 is listening to a song. For all x_32, x_32 will not listen to a song or x_32 is a musician. For all x_32, x_32 is a musician and x_32 is a musician. Can we infer the following from them? Answer yes or no: For all x_32, x_32 is not a cashier.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_80",
+        "context": "Consider the following premises: For all x_21, x_21 is not a bartender. For all x_21, x_21 is not a soldier or x_21 is a server. For all x_21, if x_21 were a server, then x_21 is a carpenter. For all x_21, x_21 is a carpenter if and only if x_21 is a soldier. For all x_21, if x_21 were a soldier, then x_21 is a bartender. Can we infer the following from them? Answer yes or no: For all x_21, x_21 is not a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_81",
+        "context": "Consider the following premises: For all x_21, if x_21 were a lawyer, then x_21 is a musician. For all x_21, if x_21 were a lawyer, then x_21 is a musician. For all x_21, x_21 will take a plane or x_21 is a musician. For all x_21, if x_21 takes a plane, then x_21 is a janitor. For all x_21, if x_21 were a musician, then x_21 is a lawyer. For all x_21, if x_21 were a janitor, then x_21 is a lawyer. Can we infer the following from them? Answer yes or no: For all x_21, x_21 is a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_82",
+        "context": "Consider the following premises: For all x_27, x_27 is a writer or x_27 is a writer. For all x_27, if x_27 were a sailor, then x_27 is a writer and if x_27 were a writer, then x_27 is a sailor. For all x_27, x_27 is a writer if and only if x_27 is happy. For all x_27, if x_27 were a sailor, then x_27 is happy. Can we infer the following from them? Answer yes or no: For all x_27, x_27 is a sailor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_83",
+        "context": "Consider the following premises: For all x_22, if x_22 were poor, then x_22 is making tea. For all x_22, x_22 will cook if and only if x_22 will make tea. There is at least one x_22 for which if x_22 were excited, then x_22 is poor. For all x_22, if x_22 cooks, then x_22 is writing a letter. Can we infer the following from them? Answer yes or no: There is at least one x_22 for which if x_22 were excited, then x_22 is writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_84",
+        "context": "Consider the following premises: For all x_35, x_35 will cook or x_35 is a carpenter. For all x_35, if x_35 cooks, then x_35 is sleeping. For all x_35, x_35 is a poet. For all x_35, x_35 is a poet if and only if x_35 will make tea. There is at least one x_35 for which if x_35 were a scientist, then x_35 is making tea. For all x_35, if x_35 were a carpenter, then x_35 is sleeping. Can we infer the following from them? Answer yes or no: There is at least one x_35 for which x_35 will sleep and there is at least one x_35 for which x_35 will make tea.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_85",
+        "context": "Consider the following premises: For all x_30, x_30 is not a musician. For all x_30, x_30 will play squash if and only if x_30 will sleep. There is at least one x_30 for which x_30 will play squash if and only if x_30 is an artist. For all x_30, x_30 is a bartender if and only if x_30 is an artist. For all x_30, if x_30 were a bartender, then x_30 is a musician. For all x_30, x_30 will sleep if and only if x_30 will play squash. Can we infer the following from them? Answer yes or no: There is at least one x_30 for which x_30 will not sleep.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_86",
+        "context": "Consider the following premises: For all x_22, x_22 is a writer and x_22 will take a plane. Can we infer the following from them? Answer yes or no: There is at least one w_2 for which w_2 will take a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_8_87",
+        "context": "Consider the following premises: For all x_25, x_25 will make tea if and only if x_25 will cook. There is at least one x_25 for which x_25 will not make tea. Can we infer the following from them? Answer yes or no: For all x_25, x_25 will cook.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_88",
+        "context": "Consider the following premises: For all x_24, x_24 will climb a mountain if and only if x_24 will write a letter. For all x_24, x_24 is not a politician or x_24 will write a letter. For all x_24, x_24 is a politician if and only if x_24 will climb a mountain. For all x_24, if x_24 writes a letter, then x_24 is an artist. For all x_24, if x_24 were an artist, then x_24 is climbing a mountain. Can we infer the following from them? Answer yes or no: For all x_24, x_24 will write a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_89",
+        "context": "Consider the following premises: For all w, w will listen to a song if and only if w is bored. For all x_27, x_27 is a bartender. For all x_27, x_27 is not a bartender. Can we infer the following from them? Answer yes or no: There is at least one w for which w is not bored.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_90",
+        "context": "Consider the following premises: For all x_20, if x_20 writes a letter, then x_20 is sad. There is at least one x_20 for which if x_20 were sad, then x_20 is a musician. For all x_20, x_20 is not a musician. For all x_20, x_20 is a musician if and only if x_20 will write a letter. Can we infer the following from them? Answer yes or no: For all x_20, x_20 is sad.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_91",
+        "context": "Consider the following premises: There is at least one x_33 for which x_33 is a police officer. For all x_33, if x_33 were a police officer, then x_33 is a nurse. For all x_33, if x_33 were a carpenter, then x_33 is a cashier. For all x_33, if x_33 were a cashier, then x_33 is an artist. For all x_33, x_33 will not play tennis or x_33 is excited. For all x_33, if x_33 were a nurse, then x_33 is excited. For all x_33, x_33 is a carpenter or x_33 is excited. Can we infer the following from them? Answer yes or no: There is at least one x_33 for which x_33 is an artist.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_92",
+        "context": "Consider the following premises: For all x_22, if x_22 were a cashier, then x_22 is an artist. For all x_22, if x_22 plays a game, then x_22 is an artist and if x_22 were an artist, then x_22 is playing a game. For all x_22, if x_22 were a cashier, then x_22 is writing a letter. For all x_22, if x_22 were an artist, then x_22 is a cashier. For all x_22, if x_22 writes a letter, then x_22 is a cashier. Can we infer the following from them? Answer yes or no: For all x_22, if x_22 writes a letter, then x_22 is playing a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_93",
+        "context": "Consider the following premises: For all x_28, x_28 will not climb a mountain. For all x_28, if x_28 makes tea, then x_28 is a cashier. For all x_28, x_28 will climb a mountain if and only if x_28 will make tea. For all x_28, x_28 is not a cashier or x_28 will make tea. There is at least one x_28 for which x_28 will climb a mountain if and only if x_28 will make tea. Can we infer the following from them? Answer yes or no: There is at least one x_28 for which x_28 is not a cashier.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_94",
+        "context": "Consider the following premises: For all x_33, x_33 is sad if and only if x_33 is a doctor. For all x_33, x_33 will play a game. For all x_33, if x_33 were a police officer, then x_33 is sad and if x_33 were sad, then x_33 is a police officer. For all x_33, x_33 is a police officer. Can we infer the following from them? Answer yes or no: For all x_33, x_33 is a doctor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_95",
+        "context": "Consider the following premises: For all x_33, x_33 is a doctor. For all x_33, if x_33 were a doctor, then x_33 is a cashier and if x_33 were a cashier, then x_33 is a doctor. For all x_33, x_33 is a scientist. For all x_33, x_33 is a cashier if and only if x_33 is a bartender. Can we infer the following from them? Answer yes or no: For all x_33, x_33 is a bartender.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_96",
+        "context": "Consider the following premises: For all x_22, x_22 will write a letter if and only if x_22 will cook. There is at least one x_22 for which x_22 will not go running or x_22 will cook. For all x_22, x_22 is a writer if and only if x_22 will go running. For all x_22, x_22 will write a letter. Can we infer the following from them? Answer yes or no: There is at least one x_22 for which x_22 is a writer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_97",
+        "context": "Consider the following premises: There is at least one x_28 for which x_28 is a janitor if and only if x_28 will sleep. For all x_28, if x_28 sleeps, then x_28 is a mechanic. For all x_28, x_28 is not a janitor. For all x_28, x_28 is a janitor if and only if x_28 will sleep. For all x_28, x_28 is not a mechanic or x_28 will sleep. Can we infer the following from them? Answer yes or no: There is at least one x_28 for which x_28 is not a mechanic.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_98",
+        "context": "Consider the following premises: For all x_22, if x_22 were a server, then x_22 is sleeping. For all x_22, if x_22 writes a letter, then x_22 is sleeping. For all x_22, if x_22 were a scientist, then x_22 is writing a letter and if x_22 writes a letter, then x_22 is a scientist. For all x_22, if x_22 sleeps, then x_22 is writing a letter. For all x_22, if x_22 sleeps, then x_22 is a server. Can we infer the following from them? Answer yes or no: For all x_22, if x_22 were a server, then x_22 is a scientist.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_8_99",
+        "context": "Consider the following premises: For all x_33, if x_33 takes a plane, then x_33 is cooking. For all x_33, x_33 will take a plane or x_33 will drive a car. For all x_33, if x_33 cooks, then x_33 is a sailor. There is at least one x_33 for which x_33 will listen to a song. For all x_33, if x_33 were a mechanic, then x_33 is driving a car. For all x_33, if x_33 listens to a song, then x_33 is a mechanic. For all x_33, x_33 will not go running or x_33 will drive a car. Can we infer the following from them? Answer yes or no: There is at least one x_33 for which x_33 is a sailor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_0",
+        "context": "Consider the following premises: Jennifer is a nurse if and only if it is overcast. If Linda were a musician, then Patricia is a cashier and if Patricia were a cashier, then Linda is a musician. If William cooks, then Linda is a musician. If Patricia were a cashier, then William is cooking. Linda is not a musician or Jennifer is a nurse. Can we infer the following from them? Answer yes or no: If Patricia were a cashier, then it is overcast.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_1",
+        "context": "Consider the following premises: Barbara is excited if and only if Linda is rich. If Barbara were excited, then Linda is rich. If Linda were rich, then Barbara is excited. Can we infer the following from them? Answer yes or no: If Linda were rich, then Barbara is excited and if Barbara were excited, then Linda is rich.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_2",
+        "context": "Consider the following premises: If Michael works, then Mary is an office clerk. Mary is an office clerk if and only if it is raining. Mary is an office clerk if and only if Michael is working. Can we infer the following from them? Answer yes or no: If Michael works, then it is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_3",
+        "context": "Consider the following premises: If John were a bartender, then Robert is a soldier. If Jennifer were an electrician, then John is a bartender. John is a bartender if and only if it is cloudy. If Robert were a soldier, then Jennifer is an electrician. If it is cloudy, then Jennifer is an electrician. Can we infer the following from them? Answer yes or no: If John were a bartender, then Jennifer is an electrician and if Jennifer were an electrician, then John is a bartender.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_4",
+        "context": "Consider the following premises: If it rains, then Jessica is writing a letter. It is overcast. If it rains, then it is overcast. Jessica is not writing a letter or it is raining. If it is overcast, then it is raining. Can we infer the following from them? Answer yes or no: It is not raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_5",
+        "context": "Consider the following premises: If it is late, then John is a writer. William is not working or John is a writer. If it is late, then Susan is sleeping. If John were a writer, then it is late. If it is late, then John is a writer. If Susan sleeps, then William is working. Can we infer the following from them? Answer yes or no: If it is late, then John is a writer and if John were a writer, then it is late.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_6",
+        "context": "Consider the following premises: James is not curious. If Michael reads a book, then it is sunny. James is curious if and only if Richard is drinking water. If it is sunny, then Richard is drinking water and if Richard drinks water, then it is sunny. If it is sunny, then Michael is reading a book. If James were curious, then Richard is drinking water. Can we infer the following from them? Answer yes or no: It is not overcast.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_7",
+        "context": "Consider the following premises: If Joseph were an electrician, then it is raining. If it rains, then James is bored. It is windy if and only if James is bored. If James were bored, then Joseph is an electrician. It is raining if and only if it is windy. Can we infer the following from them? Answer yes or no: Neither it is not windy nor it is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_8",
+        "context": "Consider the following premises: Karen is playing tennis if and only if William is curious. If Jennifer were a lawyer, then James is listening to a song. If James listens to a song, then Karen is playing tennis and if Karen plays tennis, then James is listening to a song. If James listens to a song, then Jennifer is a lawyer. Jennifer is not a lawyer. Can we infer the following from them? Answer yes or no: William is not curious.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_9",
+        "context": "Consider the following premises: If William were a lawyer, then Mary is playing a game. If Mary plays a game, then William is a lawyer. Can we infer the following from them? Answer yes or no: William is not a lawyer or Mary is playing a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_10",
+        "context": "Consider the following premises: Thomas is a soldier if and only if it is raining. If Elisabeth were a server, then Mary is taking a plane. Mary is taking a plane if and only if it is raining. If it is windy, then Elisabeth is a server. Can we infer the following from them? Answer yes or no: It is raining.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_11",
+        "context": "Consider the following premises: It is snowing if and only if it is cold. If it is cold, then Jessica is playing squash. Mary is a mechanic if and only if Jessica is playing squash. Jessica is not playing squash or it is snowing. Mary is not a mechanic or it is snowing. Can we infer the following from them? Answer yes or no: It is snowing if and only if Jessica is playing squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_12",
+        "context": "Consider the following premises: Susan is playing tennis if and only if Robert is a server. Robert is a server if and only if Susan is playing tennis. Robert is not a server or Susan is playing tennis. Can we infer the following from them? Answer yes or no: If Susan plays tennis, then Robert is a server and if Robert were a server, then Susan is playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_13",
+        "context": "Consider the following premises: It is not raining. If David cooks, then it is cold. It is raining if and only if Patricia is a musician. Patricia is a musician or it is late. It is cold. If it is cold, then David is cooking. Can we infer the following from them? Answer yes or no: David is cooking and it is late.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_14",
+        "context": "Consider the following premises: Jessica is not drinking water. If Susan plays tennis, then Patricia is a carpenter. Jessica is drinking water if and only if it is windy. Susan is playing tennis if and only if Joseph is a bartender. Patricia is not a carpenter or it is windy. It is sunny. Can we infer the following from them? Answer yes or no: Joseph is not taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_15",
+        "context": "Consider the following premises: It is overcast if and only if it is cloudy. Barbara is not listening to a song if and only if it is overcast. Linda is a carpenter if and only if it is cloudy. Barbara is listening to a song. Can we infer the following from them? Answer yes or no: Linda is not a carpenter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_16",
+        "context": "Consider the following premises: James is not running or it is cold. If James were a musician, then Charles is an artist. If Charles were a mechanic, then it is late. If Charles were an artist, then Charles is a mechanic. If it is late, then James is running. It is raining if and only if James is a musician. Can we infer the following from them? Answer yes or no: If it rains, then it is cold.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_17",
+        "context": "Consider the following premises: It is cold. It is cold if and only if Michael is climbing a mountain. Michael is not climbing a mountain or it is cold. Can we infer the following from them? Answer yes or no: Karen is a writer or Michael is climbing a mountain.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_18",
+        "context": "Consider the following premises: It is not sunny or it is windy. If Robert were fast, then it is sunny. Robert is fast or it is cloudy. It is windy if and only if Charles is curious. If it is cloudy, then Charles is curious. Can we infer the following from them? Answer yes or no: Charles is curious.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_19",
+        "context": "Consider the following premises: It is cold. If Joseph were curious, then it is cold. If it is cold, then Joseph is curious. Can we infer the following from them? Answer yes or no: Joseph is not curious.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_20",
+        "context": "Consider the following premises: If it snows, then Patricia is making tea and if Patricia makes tea, then it is snowing. If Patricia makes tea, then it is cloudy and if it is cloudy, then Patricia is making tea. It is snowing and Linda is playing a game. Can we infer the following from them? Answer yes or no: It is cloudy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_21",
+        "context": "Consider the following premises: If John were an electrician, then James is making tea and if James makes tea, then John is an electrician. If Thomas were a cashier, then Thomas is an astronaut. If Thomas were an astronaut, then Thomas is a cashier. Thomas is a cashier if and only if John is an electrician. Can we infer the following from them? Answer yes or no: If James makes tea, then Thomas is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_22",
+        "context": "Consider the following premises: If it is cloudy, then Joseph is a lawyer. The claim that Richard is climbing a mountain and the claim that John is bored cannot both be true. If Robert listens to a song, then it is cloudy. If Joseph were a lawyer, then Richard is climbing a mountain. It is not cloudy or Robert is listening to a song. John is bored. If Richard climbs a mountain, then it is cloudy. Can we infer the following from them? Answer yes or no: Robert is listening to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_23",
+        "context": "Consider the following premises: Jessica is a politician and Thomas is reading a book. If Richard were a taxi driver, then Elisabeth is playing squash. If Richard were a taxi driver, then Jessica is not a politician. Richard is a taxi driver if and only if it is cold. If Elisabeth plays squash, then it is cold. If it is sunny, then it is cold and if it is cold, then it is sunny. Can we infer the following from them? Answer yes or no: It is not sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_24",
+        "context": "Consider the following premises: If Thomas writes a letter, then it is raining and if it rains, then Thomas is writing a letter. Thomas is writing a letter if and only if Robert is playing tennis. Robert is not playing tennis. It is raining. If it rains, then Thomas is writing a letter and if Thomas writes a letter, then it is raining. Can we infer the following from them? Answer yes or no: Jennifer is excited.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_25",
+        "context": "Consider the following premises: If Jennifer reads a book, then William is poor. If William were poor, then Jennifer is reading a book. If Karen were rich, then William is poor. If William were poor, then Karen is rich. Can we infer the following from them? Answer yes or no: The fact that Jennifer reads a book does not imply that Karen is rich.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_26",
+        "context": "Consider the following premises: If it is windy, then Linda is a sailor and if Linda were a sailor, then it is windy. It is windy if and only if Linda is a sailor. If Karen makes tea, then it is windy. If Linda were a sailor, then Karen is making tea. Can we infer the following from them? Answer yes or no: It is not windy or Linda is a sailor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_27",
+        "context": "Consider the following premises: Susan is not a police officer or Robert is reading a book. If Robert reads a book, then Linda is driving a car. If Susan were a police officer, then it is snowing. Susan is a police officer if and only if it is snowing. Linda is driving a car if and only if Robert is reading a book. Can we infer the following from them? Answer yes or no: If it snows, then Linda is driving a car.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_28",
+        "context": "Consider the following premises: Thomas is fast if and only if Thomas is a writer. Karen is driving a car and it is raining. Thomas is fast if and only if Karen is driving a car. Elisabeth is an artist. Can we infer the following from them? Answer yes or no: Thomas is a writer and Elisabeth is an artist.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_29",
+        "context": "Consider the following premises: It is not late. If Jessica were a scientist, then it is snowing and if it snows, then Jessica is a scientist. If John were a lawyer, then Jessica is a scientist. It is snowing if and only if it is late. If Jessica were a scientist, then John is a lawyer. Can we infer the following from them? Answer yes or no: John is not a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_30",
+        "context": "Consider the following premises: James is reading a book. If Michael were rich, then it is not raining. It is raining. If it is sunny, then Richard is sleeping. If James reads a book, then Barbara is a bartender. If Richard sleeps, then Michael is rich. It is sunny if and only if John is taking a plane. Can we infer the following from them? Answer yes or no: Barbara is a bartender.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_31",
+        "context": "Consider the following premises: If it is cold, then John is playing tennis and if John plays tennis, then it is cold. If Charles listens to a song, then it is cold. Charles is not listening to a song. If it is cold, then John is playing tennis. It is not cold or Charles is listening to a song. Can we infer the following from them? Answer yes or no: John is not playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_32",
+        "context": "Consider the following premises: Patricia is an artist if and only if it is windy. The claim that it is windy and the claim that Barbara is climbing a mountain cannot both be true. If it is windy, then Patricia is an artist. Can we infer the following from them? Answer yes or no: Jennifer is taking a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_33",
+        "context": "Consider the following premises: If Robert were a writer, then Sarah is a lawyer. William is making tea if and only if Sarah is a lawyer. If William makes tea, then Sarah is a lawyer and if Sarah were a lawyer, then William is making tea. If Robert were not a writer, then William is making tea. Can we infer the following from them? Answer yes or no: William is making tea.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_34",
+        "context": "Consider the following premises: If Karen were an artist, then David is writing a letter. If Linda were a server, then Karen is an artist. If John were a writer, then Linda is a server. If David writes a letter, then John is a writer. Karen is an artist if and only if Linda is a server. If David writes a letter, then Karen is an artist. Can we infer the following from them? Answer yes or no: If Karen were an artist, then David is writing a letter and if David writes a letter, then Karen is an artist.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_35",
+        "context": "Consider the following premises: Joseph is a police officer if and only if Jennifer is a nurse. Jennifer is not a nurse or Karen is playing tennis. If Karen plays tennis, then Barbara is playing squash. If Barbara plays squash, then Joseph is a police officer. If Karen plays tennis, then Jennifer is a nurse. Can we infer the following from them? Answer yes or no: Karen is playing tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_36",
+        "context": "Consider the following premises: If Thomas doesn't write a letter, then Thomas is sleeping. If Thomas sleeps, then it is windy. Thomas is not sleeping or Susan is rich. If Susan were rich, then it is windy. The claim that it is windy and the claim that Thomas is writing a letter cannot both be true. Can we infer the following from them? Answer yes or no: If Thomas sleeps, then it is windy and if it is windy, then Thomas is sleeping.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_37",
+        "context": "Consider the following premises: If it is cloudy, then Elisabeth is making tea and if Elisabeth makes tea, then it is cloudy. The claim that David is playing squash and the claim that John is taking a plane cannot both be true. John is not taking a plane if and only if it is late. It is late if and only if Elisabeth is making tea. Can we infer the following from them? Answer yes or no: The fact that David plays squash does not imply that it is cloudy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_38",
+        "context": "Consider the following premises: If Robert takes a plane, then Thomas is a taxi driver. If it is sunny, then Thomas is a taxi driver and if Thomas were a taxi driver, then it is sunny. It is cloudy. If Richard works, then it is sunny. It is cloudy if and only if Barbara is a mechanic. Barbara is not a mechanic or Robert is taking a plane. Can we infer the following from them? Answer yes or no: It is sunny.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_39",
+        "context": "Consider the following premises: If Richard were a writer, then Joseph is drinking water. If Richard were a writer, then Karen is reading a book. If Joseph drinks water, then Richard is a writer. Karen is not reading a book or Joseph is drinking water. Can we infer the following from them? Answer yes or no: Richard is not a writer or Karen is reading a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_40",
+        "context": "Consider the following premises: If it is windy, then it is snowing and if it snows, then it is windy. Can we infer the following from them? Answer yes or no: Neither it is not windy nor it is snowing.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_41",
+        "context": "Consider the following premises: If Mary were a writer, then Sarah is making tea. If it is overcast, then Sarah is making tea and if Sarah makes tea, then it is overcast. Sarah is making tea if and only if Mary is a writer. If Sarah makes tea, then Mary is a writer. Can we infer the following from them? Answer yes or no: If it is overcast, then Mary is a writer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_42",
+        "context": "Consider the following premises: If Mary writes a letter, then Jessica is a lawyer and if Jessica were a lawyer, then Mary is writing a letter. If Patricia were not fast, then Mary is a police officer. Jessica is a lawyer if and only if Patricia is fast. Mary is a police officer or Barbara is a musician. If Mary writes a letter, then Mary is a police officer. Can we infer the following from them? Answer yes or no: Barbara is a musician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_43",
+        "context": "Consider the following premises: If James makes tea, then Jessica is playing a game and if Jessica plays a game, then James is making tea. Jessica is playing a game if and only if Barbara is a doctor. If Jessica plays a game, then Barbara is a doctor. If Barbara were a doctor, then Jessica is playing a game. Can we infer the following from them? Answer yes or no: If James makes tea, then Barbara is a doctor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_44",
+        "context": "Consider the following premises: If it snows, then Michael is a bartender and if Michael were a bartender, then it is snowing. If Michael were a bartender, then it is cloudy. Michael is a bartender if and only if it is cloudy. If it is cloudy, then Michael is a bartender. Can we infer the following from them? Answer yes or no: If it snows, then it is cloudy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_45",
+        "context": "Consider the following premises: If it is late, then Elisabeth is a server. John is working if and only if Thomas is an artist. If Thomas were an artist, then Karen is reading a book. Karen is not reading a book. If Elisabeth were a server, then it is late. John is working if and only if it is late. Can we infer the following from them? Answer yes or no: Elisabeth is a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_46",
+        "context": "Consider the following premises: If Susan works, then Thomas is a musician and if Thomas were a musician, then Susan is working. The claim that Robert is sleeping and the claim that Thomas is a musician cannot both be true. Robert is sleeping. Can we infer the following from them? Answer yes or no: Susan is working.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_47",
+        "context": "Consider the following premises: If Elisabeth goes running, then it is raining and if it rains, then Elisabeth is running. Can we infer the following from them? Answer yes or no: If it rains, then Elisabeth is running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_48",
+        "context": "Consider the following premises: The claim that Michael is happy and the claim that Linda is a carpenter cannot both be true. If Thomas listens to a song, then Linda is a carpenter and if Linda were a carpenter, then Thomas is listening to a song. Michael is happy. Can we infer the following from them? Answer yes or no: Thomas is listening to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_49",
+        "context": "Consider the following premises: Michael is an astronaut if and only if Patricia is a doctor. Linda is reading a book. If Michael were an astronaut, then Jennifer is happy. If Jennifer were happy, then Linda is not reading a book. Can we infer the following from them? Answer yes or no: Patricia is not a doctor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_50",
+        "context": "Consider the following premises: For all x_35, if x_35 sleeps, then x_35 is happy. For all x_35, if x_35 were a police officer, then x_35 is happy. For all x_35, x_35 will write a letter if and only if x_35 is happy. For all x_35, x_35 will play squash or x_35 will make tea. For all x_35, if x_35 makes tea, then x_35 is writing a letter. There is at least one x_35 for which if x_35 were bored, then x_35 is a police officer. For all x_35, x_35 will write a letter if and only if x_35 will play squash. For all x_35, if x_35 writes a letter, then x_35 is sleeping. Can we infer the following from them? Answer yes or no: For all x_35, x_35 is not happy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_51",
+        "context": "Consider the following premises: There is at least one x_28 for which x_28 is happy if and only if x_28 will play a game. For all x_28, if x_28 drives a car, then x_28 is happy. For all x_28, x_28 will drive a car if and only if x_28 is a carpenter. For all x_28, if x_28 plays a game, then x_28 is running and if x_28 goes running, then x_28 is playing a game. Can we infer the following from them? Answer yes or no: For all x_28, the fact that x_28 were a carpenter does not imply that x_28 is running.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_52",
+        "context": "Consider the following premises: For all x_25, x_25 is not rich or x_25 will cook. There is at least one x_25 for which x_25 is not a nurse or x_25 will cook. For all x_25, x_25 is a sailor if and only if x_25 is rich. For all x_25, x_25 is a sailor or for all x_25, x_25 is a nurse. Can we infer the following from them? Answer yes or no: There is at least one x_25 for which x_25 will cook.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_53",
+        "context": "Consider the following premises: For all x_21, x_21 will not drink water or x_21 is an astronaut. For all x_21, x_21 will read a book or x_21 is a taxi driver. For all x_21, x_21 is not a taxi driver or x_21 will drink water. For all x_21, if x_21 were an astronaut, then x_21 is drinking water. For all x_21, if x_21 reads a book, then x_21 is fast. Can we infer the following from them? Answer yes or no: For all x_21, x_21 is fast or x_21 is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_54",
+        "context": "Consider the following premises: For all x_27, if x_27 were an office clerk, then x_27 is a writer. For all x_27, if x_27 listens to a song, then x_27 is an office clerk. For all x_27, if x_27 plays a game, then x_27 is a cashier. For all x_27, if x_27 plays tennis, then x_27 is playing squash. There is at least one x_27 for which if x_27 were a writer, then x_27 is playing tennis. For all x_27, if x_27 were a cashier, then x_27 is listening to a song. For all x_27, if x_27 plays squash, then x_27 is playing a game. Can we infer the following from them? Answer yes or no: For all x_27, the claim that if x_27 were a writer, then x_27 is playing squash and the claim that if x_27 plays squash, then x_27 is a writer cannot both be true.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_55",
+        "context": "Consider the following premises: For all x_25, if x_25 were a soldier, then x_25 is driving a car. For all x_25, if x_25 were rich, then x_25 is listening to a song. For all x_25, x_25 will not sleep or x_25 is a soldier. For all x_25, if x_25 cooks, then x_25 is rich. There is at least one x_25 for which if x_25 listens to a song, then x_25 is rich. For all x_25, if x_25 drives a car, then x_25 is cooking. Can we infer the following from them? Answer yes or no: There is at least one x_25 for which if x_25 sleeps, then x_25 is listening to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_56",
+        "context": "Consider the following premises: For all x_30, x_30 will not work or x_30 is an astronaut. For all x_30, if x_30 were a writer, then x_30 is working. For all x_30, if x_30 sleeps, then x_30 is rich and if x_30 were rich, then x_30 is sleeping. For all x_30, if x_30 sleeps, then x_30 is playing tennis. There is at least one x_30 for which if x_30 were a writer, then x_30 is playing tennis and if x_30 plays tennis, then x_30 is a writer. Can we infer the following from them? Answer yes or no: There is at least one x_30 for which if x_30 were rich, then x_30 is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_57",
+        "context": "Consider the following premises: For all x_29, x_29 is a writer. For all x_38, x_38 is a writer if and only if x_38 will sleep. For all x_38, x_38 will not sleep or x_38 is curious. For all x_38, x_38 will drink water if and only if x_38 is curious. There is at least one x_38 for which if x_38 plays a game, then x_38 is not drinking water. Can we infer the following from them? Answer yes or no: There is at least one x_38 for which x_38 is bored.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_58",
+        "context": "Consider the following premises: For all x_26, x_26 will play squash or for all x_26, x_26 will work. For all x_26, if x_26 works, then x_26 is playing a game. For all x_26, if x_26 plays a game, then x_26 is working. For all x_26, x_26 will play squash if and only if x_26 will play a game. Can we infer the following from them? Answer yes or no: There is at least one y_4 for which y_4 will not play a game.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_59",
+        "context": "Consider the following premises: For all x_28, x_28 is an artist if and only if x_28 is a poet. For all x_28, x_28 will drive a car if and only if x_28 is a poet. For all x_28, if x_28 were an artist, then x_28 is a taxi driver. For all x_28, x_28 will drive a car. Can we infer the following from them? Answer yes or no: There is at least one x for which x is a taxi driver.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_60",
+        "context": "Consider the following premises: There is at least one x_49 for which if x_49 were a politician, then x_49 is cooking. For all x_49, x_49 is a musician if and only if x_49 will cook. For all x_49, x_49 is not a musician. For all x_49, x_49 is a politician. Can we infer the following from them? Answer yes or no: There is at least one x_49 for which x_49 is fast or there is at least one x_49 for which x_49 will play tennis.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_61",
+        "context": "Consider the following premises: For all x_30, if x_30 were a nurse, then x_30 is playing squash. For all x_30, x_30 is a nurse if and only if x_30 will read a book. For all x_30, if x_30 drives a car, then x_30 is running. For all x_30, if x_30 were happy, then x_30 is playing squash. There is at least one x_30 for which x_30 is not excited or x_30 is a doctor. For all x_30, x_30 will drive a car or x_30 is excited. For all x_30, if x_30 were a doctor, then x_30 is reading a book. For all x_30, if x_30 goes running, then x_30 is happy. Can we infer the following from them? Answer yes or no: There is at least one x_30 for which x_30 is a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_62",
+        "context": "Consider the following premises: For all x_30, x_30 will listen to a song and for all x_30, x_30 will take a plane. For all x_30, x_30 is a janitor. Can we infer the following from them? Answer yes or no: For all x_30, x_30 will listen to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_63",
+        "context": "Consider the following premises: For all x_12, x_12 is happy if and only if x_12 is excited. Can we infer the following from them? Answer yes or no: For all x_12, if x_12 were excited, then x_12 is happy.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_64",
+        "context": "Consider the following premises: For all x_31, x_31 is a scientist if and only if x_31 will play squash. For all x_31, x_31 is fast if and only if x_31 is a scientist. For all x_31, if x_31 plays squash, then x_31 is a bartender. There is at least one x_31 for which if x_31 were a scientist, then x_31 is a bartender. For all x_31, if x_31 were fast, then x_31 is playing squash. For all x_31, if x_31 were a bartender, then x_31 is a scientist. Can we infer the following from them? Answer yes or no: There is at least one x_31 for which x_31 is a bartender if and only if x_31 will play squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_65",
+        "context": "Consider the following premises: For all x_23, x_23 is a nurse and for all x_23, x_23 will cook. Can we infer the following from them? Answer yes or no: There is at least one y for which y will cook.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_66",
+        "context": "Consider the following premises: For all x_25, if x_25 were an office clerk, then x_25 is a cashier. There is at least one x_25 for which if x_25 were a taxi driver, then x_25 is curious. For all x_25, if x_25 were curious, then x_25 is playing tennis. For all x_25, x_25 is a taxi driver or x_25 is an office clerk. For all x_25, x_25 is a cashier if and only if x_25 is a musician. Can we infer the following from them? Answer yes or no: There is at least one x_25 for which x_25 will play tennis or x_25 is a musician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_67",
+        "context": "Consider the following premises: For all x_28, if x_28 plays a game, then x_28 is a writer. For all x_28, if x_28 were a writer, then x_28 is a bartender. For all x_28, x_28 is not sad. For all x_28, x_28 is not sad or x_28 is a bartender. For all x_28, if x_28 were a bartender, then x_28 is a writer. For all x_28, if x_28 climbs a mountain, then x_28 is playing a game. For all x_28, if x_28 were a bartender, then x_28 is sad. Can we infer the following from them? Answer yes or no: There is no x_28 for which x_28 will climb a mountain.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_68",
+        "context": "Consider the following premises: For all x_37, if x_37 were a janitor, then x_37 is climbing a mountain. For all x_37, if x_37 were a doctor, then x_37 is climbing a mountain. For all x_37, x_37 will sleep or x_37 will sleep. For all x_37, x_37 is a doctor or for all x_37, x_37 is a janitor. Can we infer the following from them? Answer yes or no: There is at least one z_2 for which z_2 will sleep.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_69",
+        "context": "Consider the following premises: For all x_28, if x_28 goes running, then x_28 is drinking water. For all x_28, x_28 is an office clerk if and only if x_28 will climb a mountain. For all x_28, if x_28 were an office clerk, then x_28 is drinking water and if x_28 drinks water, then x_28 is an office clerk. There is at least one x_28 for which if x_28 were a server, then x_28 is running. Can we infer the following from them? Answer yes or no: There is at least one x_28 for which x_28 will not cook.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_70",
+        "context": "Consider the following premises: For all x_41, if x_41 reads a book, then x_41 is working. For all x_41, x_41 is happy if and only if x_41 is an electrician. For all x_41, x_41 will not listen to a song. For all x_41, if x_41 were poor, then x_41 is reading a book. There is at least one x_41 for which if x_41 reads a book, then x_41 is poor. For all x_41, if x_41 writes a letter, then x_41 is an electrician. For all x_41, if x_41 works, then x_41 is listening to a song. For all x_41, if x_41 were happy, then x_41 is poor and if x_41 were poor, then x_41 is happy. For all x_41, if x_41 were an electrician, then x_41 is writing a letter. Can we infer the following from them? Answer yes or no: There is at least one x_41 for which x_41 will not write a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_71",
+        "context": "Consider the following premises: For all x_27, x_27 will not read a book. For all x_27, if x_27 writes a letter, then x_27 is reading a book. For all x_27, x_27 is happy if and only if x_27 will play a game. For all x_27, if x_27 were happy, then x_27 is writing a letter and if x_27 writes a letter, then x_27 is happy. For all x_27, if x_27 reads a book, then x_27 is writing a letter. For all x_27, if x_27 plays a game, then x_27 is writing a letter. Can we infer the following from them? Answer yes or no: Susan is not playing squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_72",
+        "context": "Consider the following premises: For all x_33, x_33 is a poet if and only if x_33 will make tea. For all x_33, if x_33 were a poet, then x_33 is making tea. For all x_33, if x_33 makes tea, then x_33 is a poet. Not for all x_33, x_33 will make tea. Can we infer the following from them? Answer yes or no: Not for all x_33, x_33 is a poet.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_73",
+        "context": "Consider the following premises: For all x_23, x_23 is not a writer or x_23 will sleep. For all x_23, x_23 will take a plane if and only if x_23 is a writer. There is at least one x_23 for which x_23 will sleep. For all x_23, x_23 will not sleep or x_23 is a writer. Can we infer the following from them? Answer yes or no: There is at least one x_23 for which x_23 is a writer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_74",
+        "context": "Consider the following premises: For all x_23, x_23 is a poet if and only if x_23 is a lawyer. For all x_23, x_23 is a mechanic. For all x_23, if x_23 were excited, then x_23 is not a mechanic. There is at least one x_23 for which x_23 is a poet or x_23 is a bartender. For all x_23, x_23 is a lawyer if and only if x_23 is excited. Can we infer the following from them? Answer yes or no: For all x_23, x_23 is not a bartender.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_75",
+        "context": "Consider the following premises: For all x_32, if x_32 were a soldier, then x_32 is driving a car. For all x_32, if x_32 plays tennis, then x_32 is a soldier. For all x_32, if x_32 drives a car, then x_32 is a soldier. For all x_32, x_32 will play tennis and x_32 is an astronaut. Can we infer the following from them? Answer yes or no: For all y, y will drive a car.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_76",
+        "context": "Consider the following premises: For all x_28, if x_28 takes a plane, then x_28 is climbing a mountain. For all x_28, if x_28 drives a car, then x_28 is excited. For all x_28, if x_28 were excited, then x_28 is taking a plane. There is at least one x_28 for which x_28 will drive a car. For all x_28, if x_28 climbs a mountain, then x_28 is making tea. Can we infer the following from them? Answer yes or no: For all x_28, neither x_28 will make tea nor x_28 is poor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_77",
+        "context": "Consider the following premises: For all x_35, x_35 is bored or for all x_35, x_35 will climb a mountain. For all x_35, x_35 will climb a mountain if and only if x_35 is a doctor. For all x_35, if x_35 were a writer, then x_35 is a doctor. For all x_35, x_35 is a sailor if and only if x_35 is sad. There is at least one x_35 for which if x_35 were sad, then x_35 is a writer. There is no x_35 for which x_35 is bored. Can we infer the following from them? Answer yes or no: There is at least one x_35 for which x_35 is a doctor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_78",
+        "context": "Consider the following premises: For all x_36, if x_36 were an electrician, then x_36 is playing tennis. For all x_36, x_36 is not an office clerk or x_36 will play tennis. There is at least one x_36 for which x_36 will not work or x_36 is an electrician. For all x_36, x_36 is not an office clerk. For all x_36, if x_36 plays tennis, then x_36 is an office clerk. For all x_36, if x_36 drives a car, then x_36 is playing tennis. For all x_36, x_36 will work or x_36 will drive a car. Can we infer the following from them? Answer yes or no: There is at least one x_36 for which x_36 is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_79",
+        "context": "Consider the following premises: For all x_33, x_33 will take a plane. For all x_36, x_36 will listen to a song or for all x_36, x_36 will play a game. For all x_36, if x_36 listens to a song, then x_36 is curious. For all x_36, if x_36 were curious, then x_36 is listening to a song. For all x_36, if x_36 plays a game, then x_36 is curious. Can we infer the following from them? Answer yes or no: There is at least one x_36 for which x_36 will take a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_80",
+        "context": "Consider the following premises: For all x_29, x_29 will not take a plane. There is at least one x_29 for which if x_29 were a lawyer, then x_29 is listening to a song. For all x_29, if x_29 listens to a song, then x_29 is a lawyer. For all x_29, x_29 will take a plane if and only if x_29 will listen to a song. Can we infer the following from them? Answer yes or no: There is at least one x_29 for which x_29 is not a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_81",
+        "context": "Consider the following premises: For all x_23, if x_23 drives a car, then x_23 is cooking. For all x_23, if x_23 cooks, then x_23 is a bartender. For all x_23, if x_23 were a server, then x_23 is driving a car. For all x_23, if x_23 were a server, then x_23 is a bartender. For all x_23, x_23 is a server if and only if x_23 is a bartender. There is at least one x_23 for which x_23 will not cook. Can we infer the following from them? Answer yes or no: For all x_23, x_23 is a server.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_82",
+        "context": "Consider the following premises: For all x_27, if x_27 listens to a song, then x_27 is poor. There is at least one x_27 for which if x_27 were excited, then x_27 is listening to a song. For all x_27, if x_27 were poor, then x_27 is not taking a plane. For all x_27, if x_27 were poor, then x_27 is excited. For all x_27, x_27 will take a plane. For all x_27, x_27 is poor if and only if x_27 will listen to a song. Can we infer the following from them? Answer yes or no: There is at least one x_27 for which x_27 is not a lawyer.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_83",
+        "context": "Consider the following premises: For all x_30, if x_30 were a politician, then x_30 is a musician. There is at least one x_30 for which x_30 is not a musician or x_30 will go running. For all x_30, if x_30 goes running, then x_30 is a musician. For all x_30, x_30 is a politician if and only if x_30 will go running. Can we infer the following from them? Answer yes or no: There is at least one x_30 for which x_30 is not a janitor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_84",
+        "context": "Consider the following premises: For all x_22, if x_22 were a soldier, then x_22 is a taxi driver. For all x_22, x_22 is not a taxi driver or x_22 is a soldier. There is at least one x_22 for which x_22 is a taxi driver if and only if x_22 is a doctor. Can we infer the following from them? Answer yes or no: There is at least one x_22 for which if x_22 were a soldier, then x_22 is a doctor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_85",
+        "context": "Consider the following premises: For all x_30, x_30 will listen to a song and x_30 is a bartender. For all x_30, x_30 is a writer and x_30 is a sailor. Can we infer the following from them? Answer yes or no: For all x_30, x_30 is a writer and x_30 will listen to a song.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_86",
+        "context": "Consider the following premises: For all x_27, if x_27 listens to a song, then x_27 is a musician and if x_27 were a musician, then x_27 is listening to a song. There is at least one x_27 for which if x_27 were a musician, then x_27 is a scientist. For all x_27, x_27 will listen to a song or for all x_27, x_27 is a scientist. For all x_27, if x_27 were a scientist, then x_27 is a musician. Can we infer the following from them? Answer yes or no: There is at least one x_27 for which x_27 will take a plane.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_87",
+        "context": "Consider the following premises: For all x_23, x_23 will write a letter. For all x_23, if x_23 were an electrician, then x_23 is a janitor and if x_23 were a janitor, then x_23 is an electrician. For all x_23, if x_23 drives a car, then x_23 is a janitor. For all x_23, x_23 will drive a car if and only if x_23 is an electrician. For all x_23, if x_23 drives a car, then x_23 is not writing a letter. Can we infer the following from them? Answer yes or no: There is at least one x_23 for which x_23 is an electrician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_88",
+        "context": "Consider the following premises: For all x_31, x_31 is a server if and only if x_31 will make tea. For all x_31, if x_31 climbs a mountain, then x_31 is a politician. For all x_31, if x_31 works, then x_31 is climbing a mountain. For all x_31, x_31 is a server if and only if x_31 will play squash. For all x_31, if x_31 makes tea, then x_31 is working. There is at least one x_31 for which if x_31 reads a book, then x_31 is a server. For all x_31, if x_31 plays squash, then x_31 is reading a book. Can we infer the following from them? Answer yes or no: There is at least one x_31 for which x_31 is a politician.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_89",
+        "context": "Consider the following premises: For all x_41, if x_41 cooks, then x_41 is a cashier. For all x_41, x_41 is not an electrician or x_41 will cook. For all x_41, if x_41 plays squash, then x_41 is a cashier. For all x_41, x_41 will not write a letter. For all x_41, if x_41 were a cashier, then x_41 is playing squash. For all x_41, x_41 will write a letter and x_41 will take a plane. For all x_41, x_41 is an electrician or x_41 will play squash. Can we infer the following from them? Answer yes or no: For all x_41, x_41 is a cashier and for all x_41, x_41 will read a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_90",
+        "context": "Consider the following premises: There is at least one x_29 for which if x_29 drinks water, then x_29 is a poet. For all x_29, if x_29 were a poet, then x_29 is drinking water. For all x_18, x_18 will drink water. Can we infer the following from them? Answer yes or no: There is at least one x_29 for which x_29 is a poet.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": "exp_len_9_91",
+        "context": "Consider the following premises: For all x_23, if x_23 were a janitor, then x_23 is playing squash. There is no x_23 for which x_23 is a janitor. For all x_23, if x_23 plays squash, then x_23 is an office clerk. For all x_23, x_23 is not an office clerk or x_23 is a janitor. Can we infer the following from them? Answer yes or no: There is no x_23 for which x_23 is an office clerk.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_92",
+        "context": "Consider the following premises: For all x_57, if x_57 were bored, then x_57 is a writer. For all x_57, if x_57 were a carpenter, then x_57 is a writer. For all x_57, x_57 will make tea or x_57 is rich. There is at least one x_57 for which x_57 is bored. For all x_57, if x_57 were a writer, then x_57 is a carpenter. For all x_57, if x_57 were rich, then x_57 is an astronaut. For all x_57, if x_57 makes tea, then x_57 is an astronaut. Can we infer the following from them? Answer yes or no: There is at least one x_57 for which x_57 is a carpenter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_93",
+        "context": "Consider the following premises: For all x_57, if x_57 were an astronaut, then x_57 is a police officer. For all x_57, if x_57 were a police officer, then x_57 is an astronaut. For all x_57, if x_57 were a carpenter, then x_57 is listening to a song. For all x_57, if x_57 plays a game, then x_57 is a police officer. For all x_57, if x_57 drives a car, then x_57 is listening to a song. For all x_57, x_57 will drive a car or x_57 is a carpenter. There is at least one x_57 for which x_57 will play a game. Can we infer the following from them? Answer yes or no: There is at least one x_57 for which x_57 is an astronaut.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_94",
+        "context": "Consider the following premises: For all x_37, x_37 is a writer if and only if x_37 will cook. For all x_41, x_41 is a writer. For all x_37, if x_37 were a writer, then x_37 is cooking. Can we infer the following from them? Answer yes or no: There is at least one x_37 for which x_37 will cook.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_95",
+        "context": "Consider the following premises: There is no x_23 for which x_23 is happy. For all x_23, if x_23 works, then x_23 is poor. For all x_23, if x_23 were happy, then x_23 is working. For all x_23, x_23 is not poor or x_23 is happy. Can we infer the following from them? Answer yes or no: There is no x_23 for which x_23 is poor.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_96",
+        "context": "Consider the following premises: For all x_57, if x_57 drives a car, then x_57 is a police officer. For all x_57, if x_57 were a taxi driver, then x_57 is taking a plane. For all x_57, if x_57 writes a letter, then x_57 is a police officer. For all x_57, if x_57 were a carpenter, then x_57 is taking a plane. There is at least one x_57 for which x_57 is a taxi driver. For all x_57, if x_57 takes a plane, then x_57 is a carpenter. For all x_57, x_57 will write a letter or x_57 will drive a car. Can we infer the following from them? Answer yes or no: There is at least one x_57 for which x_57 is a carpenter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_97",
+        "context": "Consider the following premises: For all y_2, if y_2 drives a car, then y_2 is an artist. For all x_23, x_23 will drive a car. For all y_2, if y_2 were an artist, then y_2 is playing squash. For all y_2, if y_2 plays squash, then y_2 is driving a car. Can we infer the following from them? Answer yes or no: Linda is playing squash.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_98",
+        "context": "Consider the following premises: For all x_23, x_23 will take a plane. For all x_27, if x_27 were fast, then x_27 is reading a book. For all x_27, if x_27 takes a plane, then x_27 is fast. For all x_27, if x_27 reads a book, then x_27 is taking a plane. Can we infer the following from them? Answer yes or no: Richard is reading a book.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": "exp_len_9_99",
+        "context": "Consider the following premises: For all x_19, x_19 is excited and x_19 will play squash. For all x_21, x_21 will not write a letter or x_21 will play squash. Can we infer the following from them? Answer yes or no: Joseph is writing a letter.",
+        "question": "",
+        "options": [
+            "A) Yes",
+            "B) No"
+        ],
+        "answer": "B"
+    }
+]

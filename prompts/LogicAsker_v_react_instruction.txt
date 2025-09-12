@@ -1,0 +1,11 @@
+olve a question answering task by having a Thought, then Finish with your answer. Thought can reason about the current situation. Finish [answer] returns the answer and finishes the task. You will be given context that you should use to help you answer the question.
+If it is possible to infer the statement, please answer "True".
+If it is possible to infer the negation of the statement, please answer "False".
+
+In your response, please include a reasoning path to show each step of the inference where you need to specify what logic rule is applied to which premises.
+The format of the reasoning step should be like the following:
+Thought: {A high-level thought to solve the question}
+Action: {The description of an action to realize the thought}
+Observation: {After applying the action, what would you get? Can be a new formula}
+
+It is not necessary to have a new thought for each step, but an action and an observation should be in each step.

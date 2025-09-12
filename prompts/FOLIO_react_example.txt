@@ -1,0 +1,45 @@
+Context: All people who regularly drink coffee are dependent on caffeine. People either regularly drink coffee or joke about being addicted to caffeine. No one who jokes about being addicted to caffeine is unaware that caffeine is a drug. Rina is either a student and unaware that caffeine is a drug, or neither a student nor unaware that caffeine is a drug. If Rina is not a person dependent on caffeine and a student, then Rina is either a person dependent on caffeine and a student, or neither a person dependent on caffeine nor a student.
+Question:
+Based on the above information, is the following statement true, false, or uncertain? Rina is either a person who jokes about being addicted to caffeine or is unaware that caffeine is a drug.
+
+Thought: We need to translate the information into First Order Logic.
+Action: Define predicates
+Observation:
+Dependent(x) ::: x is a person dependent on caffeine.
+Drinks(x) ::: x regularly drinks coffee.
+Jokes(x) ::: x jokes about being addicted to caffeine.
+Unaware(x) ::: x is unaware that caffeine is a drug.
+Student(x) ::: x is a student.
+
+Action: Translate the statements in the context to logic premises
+Observation:
+∀x (Drinks(x) → Dependent(x)) ::: All people who regularly drink coffee are dependent on caffeine.
+∀x (Drinks(x) ∨ Jokes(x)) ::: People either regularly drink coffee or joke about being addicted to caffeine.
+¬∃x (Jokes(x) → Unaware(x)) ::: No one who jokes about being addicted to caffeine is unaware that caffeine is a drug. 
+(Student(rina) ∧ Unaware(rina)) ∨ ¬(Student(rina) ∨ Unaware(rina)) ::: Rina is either a student and unaware that caffeine is a drug, or neither a student nor unaware that caffeine is a drug. 
+¬(Dependent(rina) ∧ Student(rina)) → (Dependent(rina) ∧ Student(rina)) ∨ ¬(Dependent(rina) ∨ Student(rina)) ::: If Rina is not a person dependent on caffeine and a student, then Rina is either a person dependent on caffeine and a student, or neither a person dependent on caffeine nor a student.
+
+Thought: Infer on the existing formulas to try to proof the statement by applying logic rules
+Action: Apply the law of quantifier negation on the third formula
+Observation:
+∀x ¬(Jokes(x) → Unaware(x)) ::: It is false that all people who jokes about being addicted to caffeine is unaware that caffeine is a drug. 
+
+Action: Apply instantiation on the formulas which have universial quantifiers.
+Observation:
+Drinks(rina) → Dependent(rina) ::: If Rina regularly drinks coffee then she is dependent on caffeine.
+Drinks(rina) ∨ Jokes(rina) ::: Rina either regularly drink coffee or jokes about being addicted to caffeine.
+¬(Jokes(rina) → Unaware(rina)) ::: It is false that if rina jokes about being addicted to caffeine, then she is unaware that caffeine is a drug. 
+
+Action: Rewrite the implication in ¬(Jokes(rina) → Unaware(rina)) with disjunction
+Observation: ¬(¬Jokes(rina) ∨ Unaware(rina))
+
+Action: Apply De Morgan's Laws on ¬(¬Jokes(rina) ∨ Unaware(rina))
+Observation: ¬(¬Jokes(rina)) ∧ ¬Unaware(rina)
+
+Action: Apply double negation on ¬(¬Jokes(rina))
+Observation: Jokes(rina)
+
+Action: Given that Jokes(rina) is true, any disjunction we introduce is also true.
+Observation: Jokes(rina) ∨ Unaware(rina)
+
+Action: Finish [True]

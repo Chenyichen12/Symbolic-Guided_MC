@@ -1,0 +1,17 @@
+output_dir: "models/qwen25-7B-sft"
+logging_steps: 50
+per_device_train_batch_size: 8
+report_to: wandb
+gradient_accumulation_steps: 1
+gradient_checkpointing: true
+bf16: true
+torch_empty_cache_steps: null
+dataloader_pin_memory: true
+dataloader_num_workers: 8
+optim: "adamw_torch_fused"
+torch_compile: false
+save_strategy: "epoch"
+num_train_epochs: 10
+learning_rate: 0.0000005
+logging_dir: "logs"
+run_name: "SFT-Qwen25-7B"
