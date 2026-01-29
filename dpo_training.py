@@ -1,5 +1,6 @@
 from datasets import Dataset, load_dataset
-from trl import DPOConfig, DPOTrainer
+from trl.trainer.dpo_config import DPOConfig
+from trl.trainer.dpo_trainer import DPOTrainer
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import json
 import yaml

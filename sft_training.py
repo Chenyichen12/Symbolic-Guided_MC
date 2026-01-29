@@ -11,10 +11,11 @@ from datetime import datetime
 import yaml
 from dataclasses import dataclass, field
 import torch.nn.functional as F
-from transformers.utils import PaddingStrategy
+from transformers.utils.generic import PaddingStrategy
 from argparse import ArgumentParser
 from os.path import join, isfile
-from trl import SFTConfig, SFTTrainer
+from trl.trainer.sft_config import SFTConfig
+from trl.trainer.sft_trainer import SFTTrainer
 import numpy as np
 
 
@@ -91,7 +92,8 @@ def main(args):
     
 
     model = AutoModelForCausalLM.from_pretrained(
-            args.model_name, num_labels=1, torch_dtype=torch.bfloat16, use_flash_attention_2=True,
+            args.model_name, num_labels=1, torch_dtype=torch.bfloat16,
+            attn_implementation="flash_attention_2"
         )
     model.config.use_cache = False ########
     model.config.pad_token_id = tokenizer.pad_token_id
